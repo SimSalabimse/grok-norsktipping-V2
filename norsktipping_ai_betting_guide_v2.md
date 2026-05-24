@@ -70,6 +70,17 @@ Always begin response with responsible gambling reminder.
 - Apply 40-60% stake reduction for correlation risk
 - Strong for Oddsbomben-type markets
 
+## Handicap & Over/Under Strategy (New)
+- Prioritize handicap and O/U markets when they offer better risk-reward than moneyline
+- Especially useful in NHL, Tennis sets, and Esports maps
+- Example from May 25 2026 analysis: Colorado Avalanche -0.5 @ 2.75 showed strong value
+- Rule: Only use 10 NOK stakes on odds ≥1.50 to maintain good risk-reward
+
+## Lessons from Previous Runs
+- Avoid 1.20–1.35 odds with full 10 NOK stakes (low reward, high frustration on losses)
+- Better to mix Moneyline with Handicap for improved payout potential
+- Minimum recommended odds for 10 NOK stake: **1.50+**
+
 ## Long-Term Strategy
 - Minimum 100 settled bets before major changes
 - Weekly review of ROI, hit rate, and edge realization
@@ -85,4 +96,4 @@ Betting should be fun and within your means. Use Norsk Tipping's self-exclusion 
 
 ---
 
-*Continuously improved with insights from shared superior analysis conversations.*
+*Continuously improved with insights from shared superior analysis conversations. Last major update: May 25 2026 - Added Handicap/O/U section and risk lessons.*
