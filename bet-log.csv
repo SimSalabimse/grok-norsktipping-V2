@@ -4,6 +4,6 @@ Date,Time,Bet Description,Market,Odds,Stake (NOK),Status,Result,Payout,Notes
 2026-05-25,02:15,T1,Match Winner (LoL),1.32,10,Won,Win,13.20,"T1 won"
 2026-05-25,12:00,"Magnus Carlsen vs Alireza Firouzja","Klassiskparti Carlsen Win",2.65,10,Pending,Pending,0,"Norway Chess 2026 Round 1"
 2026-05-25,12:00,"Magnus Carlsen vs Alireza Firouzja","Win incl Armageddon",1.60,10,Pending,Pending,0,"Norway Chess 2026 Round 1"
-2026-05-25,13:30,"Strindheim vs Nardo","Strindheim -1 Handicap",2.65,10,Pending,Pending,0,"Norwegian lower division"
+2026-05-25,13:30,"Strindheim vs Nardo","Strindheim Win",1.67,10,Pending,Pending,0,"Norwegian lower division"
 2026-05-25,13:30,"Start vs Vålerenga","Vålerenga Win",2.20,10,Pending,Pending,0,"Combo leg"
 2026-05-25,13:30,"Strindheim vs Nardo + Start vs Vålerenga","Combo (Strindheim -1 + Vålerenga Win)",5.83,10,Pending,Pending,0,"Placed as Combo - Potential payout ~58.3 NOK"
