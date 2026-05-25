@@ -76,6 +76,17 @@ Always begin response with responsible gambling reminder.
 - Example from May 25 2026 analysis: Colorado Avalanche -0.5 @ 2.75 showed strong value
 - Rule: Only use 10 NOK stakes on odds ≥1.50 to maintain good risk-reward
 
+## Today's Bet Slip (May 25 2026)
+**Recommended Bets (Total 30 NOK)**
+
+| Bet | Market | Odds | Stake |
+|-----|--------|------|-------|
+| Colorado Avalanche | Moneyline (incl. OT) | 1.62 | 10 NOK |
+| Colorado Avalanche | -0.5 Handicap | 2.00 | 10 NOK |
+| T1 | Match Winner (LoL) | 1.32 | 10 NOK |
+
+**Rationale**: Strong NHL value on Avalanche (must-win game) + solid Esports favorite. Good mix of moneyline and handicap for balanced risk-reward.
+
 ## Lessons from Previous Runs
 - Avoid 1.20–1.35 odds with full 10 NOK stakes (low reward, high frustration on losses)
 - Better to mix Moneyline with Handicap for improved payout potential
@@ -96,4 +107,4 @@ Betting should be fun and within your means. Use Norsk Tipping's self-exclusion 
 
 ---
 
-*Continuously improved with insights from shared superior analysis conversations. Last major update: May 25 2026 - Added Handicap/O/U section and risk lessons.*
+*Continuously improved with insights from shared superior analysis conversations. Last major update: May 25 2026 - Added today's bet slip with Colorado Avalanche combo + T1.*
