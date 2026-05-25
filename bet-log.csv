@@ -11,3 +11,13 @@ Date,Sport,Match,Bet Type,Selection,Odds,Stake (NOK),Status,Result,Payout (NOK),
 2026-05-25,Football,"HamKam vs Lillestrøm",Over/Under,"Over 2.5 Goals",1.67,10,Pending,Pending,0,0,
 2026-05-25,Football,"Strømsgodset vs Bryne",Match Winner,"Strømsgodset Win",1.42,10,Pending,Pending,0,0,
 2026-05-25,Football,"Tromsø vs Aalesund",Handicap,"Tromsø -1",2.20,10,Pending,Pending,0,0,
+2026-05-25,Football,"AL Tadhamon vs Qadsia SC",Match Winner,"Qadsia SC Win",1.42,10,Won,Win,13.20,+3.20,"Qadsia SC win"
+2026-05-25,Football,"SC Paderborn vs VFL Wolfsburg",Match Winner,"VFL Wolfsburg Win",?,10,Won,Win,17.70,+7.70,"Wolfsburg win"
+2026-05-25,Football,"Sandefjord vs Fredrikstad",Match Winner,"Sandefjord Win",2.05,10,Lost,Loss,0,-10,"Lost 1-1, Fredrikstad goal 92'"
+2026-05-25,Football,"HamKam vs Lillestrøm",Over/Under,"Over 2.5 Goals",1.67,10,Lost,Loss,0,-10,"Ended 2-0"
+2026-05-25,Football,"Strømsgodset vs Bryne",Match Winner,"Strømsgodset Win",1.42,10,Won,Win,14.20,+4.20,"Strømsgodset win"
+2026-05-25,Football,"Tromsø vs Aalesund",Handicap,"Tromsø -1",2.20,10,Lost,Loss,0,-10,"Ended 1-1"
+2026-05-25,Football,"St Mirren vs Partick Thistle",Match Winner,"St Mirren Win",1.72,10,Won,Win,17.20,+7.20,"St Mirren won"
+2026-05-25,Tennis,"Magnus match",Match Winner,"Magnus Win",?,10,Lost,Loss,0,-10,"Magnus loss the round"
+2026-05-25,Football,"Strømsgodset + Tromsø",Combo,"Strømsgodset Win + Tromsø -1 or Win",?,10,Lost,Loss,0,-10,"Tromsø handicap failed"
+2026-05-25,Football,"Qadsia + Wolfsburg U2.5 + Sandefjord",Combo,"Qadsia Win + Wolfsburg Under 2.5 + Sandefjord Win",?,10,Lost,Loss,0,-10,"Sandefjord late goal killed combo"
