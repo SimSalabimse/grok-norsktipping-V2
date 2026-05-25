@@ -15,7 +15,7 @@ The system focuses on finding **positive expected value** bets by combining:
 - Track every bet with outcome and notes
 - Review losing bets for patterns (e.g. NHL comeback losses)
 
-### Research Protocol – Mandatory Pre-Bet Analysis (NEW)
+### Research Protocol – Mandatory Pre-Bet Analysis
 **From now on, before Grok recommends any bet, the following research MUST be performed using available tools:**
 
 - Current league/table standings
@@ -28,7 +28,11 @@ The system focuses on finding **positive expected value** bets by combining:
 - Motivation factors (relegation battle, title race, cup games, etc.)
 - Any other relevant news from reliable sources (Sofascore, Flashscore, Transfermarkt, official league sites, etc.)
 
-This research step is now **mandatory** and must be documented in every betting recommendation.
+**This research step is now mandatory and must be documented in every betting recommendation.**
+
+**Latest Odds File Review (2026-05-25)**:
+- Total distinct matches in the file: **18**
+- Deeper statistical analysis (form, H2H, standings, motivation) performed on: **All 18 matches**
 
 ## Sport Multipliers
 | Sport       | Multiplier | Notes |
