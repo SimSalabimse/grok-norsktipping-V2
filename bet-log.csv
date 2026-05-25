@@ -1,1 +1,4 @@
-Date,Match,Sport,Bet_Type,Selection,Odds,Stake_NOK,Result (W/L/P),Profit_Loss_NOK,Remaining_Budget_NOK,Confidence,Edge,Notes
+Date,Time,Bet Description,Market,Odds,Stake (NOK),Status,Result,Payout,Notes
+2026-05-25,02:15,Colorado Avalanche,Moneyline (incl OT),1.62,10,Placed,,,
+2026-05-25,02:15,Colorado Avalanche,-0.5 Handicap,2.00,10,Placed,,,
+2026-05-25,02:15,T1,Match Winner (LoL),1.32,10,Placed,,,
