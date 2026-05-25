@@ -16,15 +16,22 @@ The system focuses on finding **positive expected value** bets by combining:
 - Review losing bets for patterns (e.g. NHL comeback losses)
 
 ## Sport Multipliers
-| Sport       | Multiplier | Notes |
-|-------------|------------|-------|
-| Ice Hockey  | 1.05       | High scoring variance |
-| Esports     | 1.04       | Form & meta dependent |
-| Tennis      | 0.92       | High favorite reliability |
-| **Chess**   | **1.08**   | Skill + psychological edge, lower betting volume |
-| Basketball  | 1.03       | Pace & injury sensitive |
+Here are the calibrated multipliers for all major sports available on Norsk Tipping:
 
-## Chess Betting Section (New)
+| Sport                        | Multiplier | Notes                                      |
+|------------------------------|------------|--------------------------------------------|
+| Football (Soccer)            | 1.06       | High variance, many upsets                 |
+| Ice Hockey                   | 1.05       | High scoring variance                      |
+| Handball                     | 1.04       | Fast-paced team sport                      |
+| Basketball                   | 1.03       | Pace & injury sensitive                    |
+| Esports                      | 1.04       | Meta & form dependent                      |
+| Tennis                       | 0.92       | Strong favorite reliability                |
+| Chess                        | 1.08       | High skill + psychological edge, low volume|
+| Table Tennis                 | 0.95       | Short matches, momentum swings             |
+| Volleyball                   | 1.02       | Set-based, home advantage strong           |
+| Winter Sports (Biathlon etc.)| 1.03       | Weather and form sensitive                 |
+
+## Chess Betting Section
 **Sport Multiplier for Chess**: **1.08**
 
 Chess offers strong value opportunities due to deep preparation edges, lower public betting volume, and Magnus Carlsen's consistent dominance.
