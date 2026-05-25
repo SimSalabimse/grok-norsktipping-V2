@@ -1,16 +1,16 @@
 Date,Sport,Match,Bet Type,Selection,Odds,Stake (NOK),Status,Result,Payout (NOK),Profit/Loss (NOK),Notes
-2026-05-25,NHL,Colorado Avalanche vs Vegas Golden Knights,Moneyline (incl OT),Colorado Avalanche,1.62,10,Lost,Loss,0,-10,"Lost 3-5 after leading 3-0"
-2026-05-25,NHL,Colorado Avalanche vs Vegas Golden Knights,-0.5 Handicap,Colorado Avalanche -0.5,2.75,10,Lost,Loss,0,-10,"Lost 3-5 after leading 3-0"
-2026-05-25,Esports,T1 vs Dplus Challengers,Match Winner,T1,1.32,10,Won,Win,13.20,+3.20,"T1 won"
-2026-05-25,Chess,Carlsen vs Firouzja,Klassiskparti Win,Carlsen,2.65,10,Pending,Pending,0,0,"Norway Chess 2026 Round 1"
-2026-05-25,Chess,Carlsen vs Firouzja,Win incl Armageddon,Carlsen,1.60,10,Pending,Pending,0,0,"Norway Chess 2026 Round 1"
-2026-05-25,Football,Strindheim vs Nardo,Handicap,Strindheim -1,2.65,10,Won,Win,16.70,+6.70,"Strindheim won"
-2026-05-25,Football,Start vs Vålerenga,Match Winner,Vålerenga Win,2.20,10,Pending,Pending,0,0,"Combo leg"
-2026-05-25,Football,Strindheim vs Nardo + Start vs Vålerenga,Combo,Strindheim -1 + Vålerenga,5.83,10,Pending,Pending,0,0,"Placed as Combo"
-2026-05-25,Football,Strømsgodset vs Bryne + Tromsø vs Aalesund,Combo,Strømsgodset Win + Tromsø Win,2.06,10,Pending,Pending,0,0,"Placed Combo"
-2026-05-25,Football,HamKam vs Lillestrøm,Over/Under,Over 2.5 Goals,1.67,10,Pending,Pending,0,0,"" 
-2026-05-25,Football,Strømsgodset vs Bryne,Match Winner,Strømsgodset Win,1.42,10,Pending,Pending,0,0,"" 
-2026-05-25,Football,Tromsø vs Aalesund,Handicap,Tromsø -1,2.20,10,Pending,Pending,0,0,"" 
+2026-05-25,NHL,"Colorado Avalanche vs Vegas Golden Knights",Moneyline (incl OT),"Colorado Avalanche",1.62,10,Lost,Loss,0,-10,"Lost 3-5 after leading 3-0"
+2026-05-25,NHL,"Colorado Avalanche vs Vegas Golden Knights","-0.5 Handicap","Colorado Avalanche -0.5",2.75,10,Lost,Loss,0,-10,"Lost 3-5 after leading 3-0"
+2026-05-25,Esports,"T1 vs Dplus Challengers",Match Winner,T1,1.32,10,Won,Win,13.20,+3.20,"T1 won"
+2026-05-25,Chess,"Carlsen vs Firouzja",Klassiskparti Win,Carlsen,2.65,10,Pending,Pending,0,0,"Norway Chess 2026 Round 1"
+2026-05-25,Chess,"Carlsen vs Firouzja","Win incl Armageddon",Carlsen,1.60,10,Pending,Pending,0,0,"Norway Chess 2026 Round 1"
+2026-05-25,Football,"Strindheim vs Nardo",Handicap,"Strindheim -1",2.65,10,Won,Win,16.70,+6.70,"Strindheim won"
+2026-05-25,Football,"Start vs Vålerenga",Match Winner,"Vålerenga Win",2.20,10,Pending,Pending,0,0,"Combo leg"
+2026-05-25,Football,"Strindheim vs Nardo + Start vs Vålerenga",Combo,"Strindheim -1 + Vålerenga",5.83,10,Pending,Pending,0,0,"Placed as Combo"
+2026-05-25,Football,"Strømsgodset vs Bryne + Tromsø vs Aalesund",Combo,"Strømsgodset Win + Tromsø Win",2.06,10,Pending,Pending,0,0,"Placed Combo"
+2026-05-25,Football,"HamKam vs Lillestrøm",Over/Under,"Over 2.5 Goals",1.67,10,Pending,Pending,0,0,"" 
+2026-05-25,Football,"Strømsgodset vs Bryne",Match Winner,"Strømsgodset Win",1.42,10,Pending,Pending,0,0,"" 
+2026-05-25,Football,"Tromsø vs Aalesund",Handicap,"Tromsø -1",2.20,10,Pending,Pending,0,0,"" 
 
 === DAILY SUMMARY ===
 Date,Total Stake (NOK),Total Payout (NOK),Net Profit/Loss (NOK)
