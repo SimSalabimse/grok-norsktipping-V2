@@ -8,22 +8,6 @@ Date,Sport,Match,Bet Type,Selection,Odds,Stake (NOK),Status,Result,Payout (NOK),
 2026-05-25,Football,"Start vs Vålerenga",Match Winner,"Vålerenga Win",2.20,10,Pending,Pending,0,0,"Combo leg"
 2026-05-25,Football,"Strindheim vs Nardo + Start vs Vålerenga",Combo,"Strindheim -1 + Vålerenga",5.83,10,Pending,Pending,0,0,"Placed as Combo"
 2026-05-25,Football,"Strømsgodset vs Bryne + Tromsø vs Aalesund",Combo,"Strømsgodset Win + Tromsø Win",2.06,10,Pending,Pending,0,0,"Placed Combo"
-2026-05-25,Football,"HamKam vs Lillestrøm",Over/Under,"Over 2.5 Goals",1.67,10,Pending,Pending,0,0,"" 
-2026-05-25,Football,"Strømsgodset vs Bryne",Match Winner,"Strømsgodset Win",1.42,10,Pending,Pending,0,0,"" 
-2026-05-25,Football,"Tromsø vs Aalesund",Handicap,"Tromsø -1",2.20,10,Pending,Pending,0,0,"" 
-
-=== DAILY SUMMARY ===
-Date,Total Stake (NOK),Total Payout (NOK),Net Profit/Loss (NOK)
-2026-05-25,120,29.90,-90.10
-
-=== WEEKLY SUMMARY ===
-Week,Total Stake (NOK),Total Payout (NOK),Net Profit/Loss (NOK)
-Week 21 (2026),120,29.90,-90.10
-
-=== MONTHLY SUMMARY ===
-Month,Total Stake (NOK),Total Payout (NOK),Net Profit/Loss (NOK)
-May 2026,120,29.90,-90.10
-
-=== YEARLY SUMMARY ===
-Year,Total Stake (NOK),Total Payout (NOK),Net Profit/Loss (NOK)
-2026,120,29.90,-90.10
+2026-05-25,Football,"HamKam vs Lillestrøm",Over/Under,"Over 2.5 Goals",1.67,10,Pending,Pending,0,0,
+2026-05-25,Football,"Strømsgodset vs Bryne",Match Winner,"Strømsgodset Win",1.42,10,Pending,Pending,0,0,
+2026-05-25,Football,"Tromsø vs Aalesund",Handicap,"Tromsø -1",2.20,10,Pending,Pending,0,0,
