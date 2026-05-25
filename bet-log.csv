@@ -2,3 +2,5 @@ Date,Time,Bet Description,Market,Odds,Stake (NOK),Status,Result,Payout,Notes
 2026-05-25,02:15,Colorado Avalanche,Moneyline (incl OT),1.62,10,Lost,Loss,0,"Lost 3-5 after leading 3-0"
 2026-05-25,02:15,Colorado Avalanche,-0.5 Handicap,2.75,10,Lost,Loss,0,"Lost 3-5 after leading 3-0"
 2026-05-25,02:15,T1,Match Winner (LoL),1.32,10,Won,Win,13.20,"T1 won"
+2026-05-25,12:00,"Magnus Carlsen vs Alireza Firouzja","Klassiskparti Carlsen Win",2.65,10,Pending,Pending,0,"Norway Chess 2026 Round 1"
+2026-05-25,12:00,"Magnus Carlsen vs Alireza Firouzja","Win incl Armageddon",1.60,10,Pending,Pending,0,"Norway Chess 2026 Round 1"
