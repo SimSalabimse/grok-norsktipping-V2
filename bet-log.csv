@@ -1,13 +1,1 @@
-Date,Match,Recommended Bet,Odds,Outcome,Payout,Notes
-2026-05-20,Older bets (history preserved),Various, , , ,Full history kept from previous commits
-2026-05-25,AL Tadhamon vs Qadsia SC,Qadsia SC Win,1.42,Win,13.20,Win
-2026-05-25,SC Paderborn vs VFL Wolfsburg,Under 2.5 Goals,1.77,Win,17.70,Win
-2026-05-25,Sandefjord vs Fredrikstad,Sandefjord Win,2.05,Loss,0,"1-1 (Fredrikstad scored in the 92 minute) - DNB would have saved the combo"
-2026-05-25,St Mirren FC vs Partick Thistle,St Mirren Win,1.72,Win,17.20,Win
-2026-05-25,Vålerenga,Vålerenga bet,-,Loss,0,Lost 2-0
-2026-05-25,HamKam,HamKam Over 2.5,-,Loss,0,Ended 2-0
-2026-05-25,Strømsgodset,Strømsgodset Win,-,Win,14.20,Win
-2026-05-25,Tromsø,Tromsø -1 Handicap,-,Loss,0,Ended 1-1
-2026-05-25,Magnus,Magnus bet,-,Loss,0,Lost the round
-2026-05-25,Combo: Strømsgodset win + Tromsø loss,Combo,-,Loss,0,Tromsø handicap killed it
-2026-05-25,Combo: Qadsia win + Wolfsburg under 2.5 + Sandefjord,Combo,~5.15,Loss,0,Killed by Sandefjord late goal
+
