@@ -7,4 +7,10 @@
 - Over totals in IIHF/NHL have shown good edge when research supports high-scoring games.
 - Bankroll discipline is critical – stick to 10 NOK units.
 
+**New lessons from latest settlements (26/05/2026):**
+- Even in strong positions, a single controversial call (e.g. offside goal in Canada 3-2 win) can flip handicap results. Factor in "goal controversy" risk on close handicaps.
+- Auger -1.5 loss shows set handicaps on favorites still carry variance in best-of-5 formats.
+- Finland Over 4.5 hitting well supports continuing to target overs when attacking teams are involved.
+- Losing a multi-leg combo due to one leg reinforces the value of the new rule (include only highest-conviction legs and avoid overloading).
+
 **Updated:** 26/05/2026
