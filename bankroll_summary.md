@@ -1,21 +1,13 @@
-# Norsk Tipping Bankroll Summary
+# Bankroll Summary
 
-**Starting Bankroll (2026-05)**: 500 NOK  
-**Current Bankroll**: **436.70 NOK**  
-**Total P/L**: **-63.30 NOK** (-12.7%)
+**Starting Bankroll**: 500 NOK
+**Current Bankroll**: 480.70 NOK
+**Total P/L**: -19.30 NOK
 
-## Recent Activity
-- Placed today: 40 NOK (3 singles + 1 combo @6.83)
-- Previous net: -23.30 NOK
+## Recent Performance
+| Date | P/L | Bankroll |
+|------|-----|----------|
+| 26/05 | +4.00 | 480.70 |
+| 25/05 | -13.30 | 476.70 |
 
-## Progress
-```
-500 NOK  ████████████ 436.70 NOK
-     |-------------------|
-```
-
-**Open Bets**:
-- Combo @6.83 (10 NOK)
-- 3 singles (30 NOK total)
-
-**Last Updated**: 26/05/2026
+Progress: ███░░░░░░░  (96% of starting bankroll remaining)
