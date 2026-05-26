@@ -1,7 +1,7 @@
 # Norsk Tipping AI Betting Guide V2
 
-## Grok Persistent Behavior Rules (MUST FOLLOW IN EVERY CONVERSATION)
-1. GitHub Push Reliability: Always use tools to read current files, verify SHA before/after, edit, commit and push successfully. Verify push.
+## Grok Persistent Behavior Rules (MUST FOLLOW IN EVERY CONVERSATION - ADDED 26/05/2026)
+1. GitHub Push Reliability: Always use tools to read current files, verify SHA before/after, edit, commit and push successfully. Verify push with re-read.
 2. Always load and follow this guide + bet-log.csv + learning.md + bankroll_summary.md at the start of every response.
 3. Bankroll Tracking: Maintain accurate running bankroll (starting 500 NOK). Update bankroll_summary.md with table and text chart after every bet/settlement.
 4. Long-term Plan: 2% Kelly max (10 NOK units), positive EV ≥5% post-multiplier, max 4-5 bets/day, weekly review.
@@ -13,14 +13,53 @@
 10. Proactive Ideas: Suggest DNB in combos, safer legs, improvements proactively.
 11. First Principles: Base all decisions on positive EV, rigorous research, bankroll discipline, truth-seeking.
 
-## Core Betting Rules (Original Guide)
-- Only bets with positive EV ≥5% after sport multiplier
-- Strict 10 NOK unit size (or fractional Kelly)
-- Combos only from different matches per Norsk Tipping rules
-- Mandatory research before every recommendation (standings, form, H2H, injuries, motivation)
-- Track everything in bet-log.csv
-- Responsible gambling – only bet what you can afford
+This is the main living document for our data-driven betting system on Norsk Tipping. It incorporates lessons from previous runs, value betting principles, bankroll management, and responsible gambling.
 
-(Full original detailed rules for EV calculation, Kelly, sport multipliers, research protocol, etc. remain as per original file. This section preserves all prior content.)
+## System Overview
+The system focuses on finding **positive expected value** bets by combining:
+- Sharp probability estimation
+- Sport-specific multipliers
+- Dynamic Kelly staking
+- Strict tracking in `bet-log.csv`
 
-Last updated: 26/05/2026
+### Core Principles
+- Only bet when edge ≥ 5% after sport multiplier
+- Minimum odds guideline: Avoid full 10 NOK stakes on odds < 1.40 (poor risk/reward)
+- Track every bet with outcome and notes
+- Review losing bets for patterns (e.g. NHL comeback losses)
+
+### Research Protocol – Mandatory Pre-Bet Analysis
+**From now on, before Grok recommends any bet, the following research MUST be performed using available tools:**
+- Current league/table standings
+- Recent form (last 5-6 matches for both teams/players)
+- Head-to-Head (H2H) history
+- Home/Away splits
+- Injuries and suspensions
+- Referee statistics (if relevant)
+- Weather conditions (for outdoor sports)
+- Motivation factors (relegation battle, title race, cup games, etc.)
+- Any other relevant news from reliable sources (Sofascore, Flashscore, Transfermarkt, official league sites, etc.)
+
+**This research step is now mandatory and must be documented in every betting recommendation.**
+
+### Sport Multipliers
+| Sport | Multiplier | Notes |
+|-------------|------------|-------|
+| Ice Hockey | 1.05 | High scoring variance |
+| Esports | 1.04 | Form & meta dependent |
+| Tennis | 0.92 | High favorite reliability |
+| Chess | 1.08 | Skill + psychological edge |
+| Basketball | 1.03 | Pace & injury sensitive |
+| Football | 1.06 | High variance & motivation sensitive |
+
+## Bet Logging & Bankroll
+All bets tracked in `bet-log.csv`. Bankroll starts at 500 NOK. Dynamic Half-Kelly or 10 NOK max per bet.
+
+## Responsible Gambling
+- Only bet what you can afford to lose
+- Set strict deposit and loss limits on Norsk Tipping
+- Take breaks after losing sessions
+
+**Last Updated**: 26/05/2026
+
+This guide evolves with every betting round. Grok will now always perform full statistical research before recommending bets.
