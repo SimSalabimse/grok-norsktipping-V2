@@ -1,6 +1,10 @@
 Date,Match,Bet,Odds,Stake,Status,P/L,Notes,Combined Odds
-2026-05-25,"Norge vs Danmark (IIHF)","Over 4.5 Total Goals",1.67,"10 NOK","Won (4-3 OT, 7 goals)","+6.70 NOK","Research: Norway strong attack vs Denmark defence. Group trends support overs. Payout: 16.70 NOK",
-2026-05-25,"Norge vs Danmark (IIHF)","Norge -1.5 Handicap",2.15,"10 NOK","Lost","-10 NOK","Research: Standings/form edge. Norway expected to control. (Loss due to OT 1-goal margin)",
-2026-05-25,"Montreal Canadiens vs Carolina Hurricanes (NHL)","Over 5.5 Goals",1.72,"10 NOK","Lost","-10 NOK","Research: Playoff series volatility + recent high-scoring games.",
-2026-05-25,"Combo: Vegas vs Colorado (NHL) + Dodgers vs Rockies (MLB) + Botafogo vs Athletic (Serie B)","Vegas Win + Dodgers -2.5 + Botafogo Win",6.97,"10 NOK","Lost","-10 NOK","New combo placed. Different matches. Est. +7% edge.",
-2026-05-26,"Sverige vs Slovakia (IIHF) + USA vs Østerrike (IIHF) + Stabæk (W) vs Haugesund (W)","Over 4.5 + Over 5.5 + Over 2.5",4.08,"10 NOK","Open","0 NOK","New combo: IIHF overs + Women Toppserien over. Different matches. Full research completed per guide. Est. +6-8% edge."
+2026-05-25,Norge vs Danmark (IIHF),Over 4.5 Total Goals,1.67,10 NOK,Won,+6.70,Research edge on goals, 
+2026-05-25,Norge vs Danmark (IIHF),Norge -1.5 Handicap,2.15,10 NOK,Lost,-10,, 
+2026-05-25,Montreal vs Carolina (NHL),Over 5.5 Goals,1.72,10 NOK,Lost,-10,, 
+2026-05-25,Previous Combo (Vegas + LAD + Botafogo),Vegas Win + Dodgers -2.5 + Botafogo Win,6.97,10 NOK,Lost,-10,, 
+2026-05-26,Sverige vs Slovakia + USA vs Austria + Stabæk W vs Haugesund W,Over 4.5 + Over 5.5 + Over 2.5,4.08,10 NOK,Open,0,Previous combo, 
+2026-05-26,Switzerland vs Finland (IIHF),Over 4.5 Goals,1.52,10 NOK,Open,0,Full research: standings + form + H2H,
+2026-05-26,Auger-Aliassime vs Altmaier (Tennis),Auger-Aliassime -1.5 Sets,~1.60,10 NOK,Open,0,Strong favorite on surface,
+2026-05-26,Brann (W) vs Lyn (W),Over 2.5 Goals,1.40,10 NOK,Open,0,Brann dominant,
+2026-05-26,New Combo (Czechia vs Canada + Cerundolo vs Fearnley + Stabæk W vs Haugesund W + Drammen vs Kolstad),Canada -1.5 + Cerundolo -1.5 Sets + Over 2.5 + Kolstad -2.5,6.83,10 NOK,Open,0,4-leg different matches combo,
