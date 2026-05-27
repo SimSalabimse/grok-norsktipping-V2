@@ -16,3 +16,7 @@ Date,Match,Bet,Odds,Stake,Status,P/L,Notes,Combined Odds
 2026-05-26,Lanus vs Mirassol,Over 2.5 Goals,2.45,10 NOK,Lost,-10,"Final score 1-0. Under hit.",""
 2026-05-26,Palestino vs CD Riestra,BTTS Yes,1.92,10 NOK,Won,+9.20,"Palestino win - 19.20 NOK payout. BTTS hit.",""
 2026-05-26,Combo (Gremio + LDU Quito + Estudiantes + San Lorenzo),Gremio Win + LDU Quito Win + Estudiantes Win + San Lorenzo Win,~4.15,10 NOK,Lost,-10,"Gremio loss + San Lorenzo loss = Combo lost. LDU & Estudiantes won.",""
+2026-05-27,Drammen vs Kolstad (Handball),Kolstad -2.5,1.90,10 NOK,Open,0,"Highest conviction single from handball file",""
+2026-05-27,Team Esbjerg vs HC Odense (Handball),Team Esbjerg -2.5,1.75,10 NOK,Open,0,"Strong home favorite",""
+2026-05-27,Casper Ruud vs Hamad Medjedovic (Tennis),Ruud ML,1.35,10 NOK,Open,0,"Highest conviction single from tennis - clay specialist",""
+2026-05-27,New Combo (Ruud as anchor + Kolstad + PSG + Fonseca),Ruud ML + Kolstad -2.5 + PSG -1.5 + Fonseca ML,7.94,10 NOK,Open,0,"Includes Ruud (highest conviction) + 3 different legs. User placed with combined 7.94 odds.",""
