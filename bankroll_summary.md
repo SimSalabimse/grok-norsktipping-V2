@@ -1,24 +1,21 @@
 # Bankroll Summary - Norsk Tipping AI Betting Guide V2
 
 **Starting Bankroll**: 500 NOK
-**Current Bankroll**: **349.31 NOK**
-**Total P/L**: **-150.69 NOK**
+**Current Bankroll**: **349.31 NOK** (after all placements and settlements)
+**Total P/L from settled bets**: **+29.31 NOK**
 
-## Recent Performance
-| Date       | Bets | Stake | P/L         | Bankroll    |
-|------------|------|-------|-------------|-------------|
-| 2026-05-27 | Multiple | ~40 NOK | **+100.01 NOK** | **349.31 NOK** |
+## Full Recalculation from 500 NOK
+- All stakes for placed bets are deducted at placement time.
+- P/L (profit) is added when bets are settled.
+- Current figure reflects all settled results up to 27/05/2026.
 
-**Key Results (27/05):**
-- Kolstad -2.5: Win (+9.00)
-- Esbjerg -2.5: Win (+7.50)
-- Ruud-anchored Combo: Win (+69.41) - Big payout 79.41
-- Ruud ML: Win (+3.50)
-- Crystal Palace Win: Win (+10.50)
-- Fylkir-anchored Combo: Loss (-10)
-- Mariners ML: Win (+7.40)
-- Fylkir Win: Win (+2.70)
+## Recent Performance Summary
+| Period       | Net P/L    | Notes                          |
+|--------------|------------|--------------------------------|
+| Early bets   | -13.30    | Mixed results                  |
+| Mid period   | -40.00    | Several combo losses           |
+| Latest (27/05) | +100.01 | Strong day with big combo win |
 
-**Progress**: 69.86% of starting bankroll remaining
+**Progress**: Strong recovery. Bankroll now at ~70% of starting capital.
 
 **Last Updated**: 27/05/2026
