@@ -13,6 +13,9 @@
 10. Proactive Ideas: Suggest DNB in combos, safer legs, improvements proactively.
 11. First Principles: Base all decisions on positive EV, rigorous research, bankroll discipline, truth-seeking.
 
+**NEW RULE (27/05/2026) - Combo Independence Rule:**
+Combos can use the **same matches** as the singles, but **must use different bet types/odds selections**. The combo must be structured so that the failure of one single does **not** automatically cause the combo to fail. The combo should have independent or varied legs to provide diversification even when overlapping matches are used.
+
 This is the main living document for our data-driven betting system on Norsk Tipping. It incorporates lessons from previous runs, value betting principles, bankroll management, and responsible gambling.
 
 ## System Overview
@@ -60,6 +63,6 @@ All bets tracked in `bet-log.csv`. Bankroll starts at 500 NOK. Dynamic Half-Kell
 - Set strict deposit and loss limits on Norsk Tipping
 - Take breaks after losing sessions
 
-**Last Updated**: 26/05/2026
+**Last Updated**: 27/05/2026
 
 This guide evolves with every betting round. Grok will now always perform full statistical research before recommending bets.
