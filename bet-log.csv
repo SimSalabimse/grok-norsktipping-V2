@@ -32,3 +32,9 @@ Date,Match,Bet,Odds,Stake,Status,P/L,Notes,Combined Odds
 2026-05-27,"Racing Club HUB","Racing Club Win",1.15,"10 NOK","Won","+1.50 NOK","Racing Club HUB win - 11.50 NOK payout",
 2026-05-27,"New Combo (Finland anchor)","Finland -1.5 + Canada Over 4.5 + Racing Club Win + Penarol Under 2.5",8.44,"10 NOK","Open",0,"Combo placed @8.44",
 2026-05-27,"Extra singles (combo legs)","Various combo legs as singles",~1.17-2.50,"40 NOK total","Open",0,"User placed combo legs as extra singles by mistake",
+
+2026-05-28,"Storhamar vs Sola (Handball)","Storhamar -1.5",1.87,"10 NOK","Lost","-10 NOK","Lost by 8 goals - big blowout on favorite",
+2026-05-28,"28/05 Combo @8.70","Finland -1.5 + Canada Over 4.5 + Racing Club Win + Penarol Under 2.5",8.70,"10 NOK","Lost","-10 NOK","Lost on Canada O4.5 leg (final 4-0)",
+2026-05-28,"Canada vs USA (Ice Hockey)","Canada Win",1.62,"10 NOK","Won","+6.20 NOK","16.20 NOK payout",
+2026-05-28,"Finland vs Czechia (Ice Hockey) - Single","Finland -1.5 Handicap",1.82,"10 NOK","Won","+8.20 NOK","18.20 NOK payout (single)",
+2026-05-28,"Finland vs Czechia (Ice Hockey) - Combo leg (lost combo)","Finland -1.5 Handicap",1.82,"10 NOK","Lost",0,"Part of lost combo - no payout from combo",
