@@ -24,17 +24,13 @@ Date,Match,Bet,Odds,Stake,Status,P/L,Notes,Combined Odds
 2026-05-27,"Crystal Palace vs Rayo Vallecano (Conference League Final)","Crystal Palace Win",2.05,"10 NOK","Won","+10.50 NOK","Crystal Palace win - 20.50 NOK payout",
 2026-05-27,"Fylkir-anchored Combo (Fylkir + Mariners -1.5 + Palace BTTS + Muchova)","Different bet types",~5.90,"10 NOK","Lost","-10 NOK","BTTS leg failed - Combo loss",
 
-2026-05-27,"Canada vs USA (Ice Hockey)","Canada -1.5 Handicap",1.62,"10 NOK","Open",0,"Highest conviction single",
-2026-05-27,"Finland vs Czechia (Ice Hockey)","Finland -1.5 Handicap",1.82,"10 NOK","Open",0,"Strong form value",
-2026-05-27,"Montreal vs Carolina (NHL)","Over 5.5 Goals",1.82,"10 NOK","Lost","-10 NOK","Montreal O5.5 loss",
-2026-05-27,"Racing Club vs Independiente Petrolero","Racing Club -1.5 Handicap",2.30,"10 NOK","Lost","-10 NOK","Racing handicap loss (2-0 final)",
-2026-05-27,"Penarol vs Santa Fe","Under 2.5 Goals",1.60,"10 NOK","Won","+6.00 NOK","Penarol U2.5 win - 16 NOK payout",
-2026-05-27,"Racing Club HUB","Racing Club Win",1.15,"10 NOK","Won","+1.50 NOK","Racing Club HUB win - 11.50 NOK payout",
-2026-05-27,"New Combo (Finland anchor)","Finland -1.5 + Canada Over 4.5 + Racing Club Win + Penarol Under 2.5",8.44,"10 NOK","Open",0,"Combo placed @8.44",
-2026-05-27,"Extra singles (combo legs)","Various combo legs as singles",~1.17-2.50,"40 NOK total","Open",0,"User placed combo legs as extra singles by mistake",
-
 2026-05-28,"Storhamar vs Sola (Handball)","Storhamar -1.5",1.87,"10 NOK","Lost","-10 NOK","Lost by 8 goals - big blowout on favorite",
-2026-05-28,"28/05 Combo @8.70","Finland -1.5 + Canada Over 4.5 + Racing Club Win + Penarol Under 2.5",8.70,"10 NOK","Lost","-10 NOK","Lost on Canada O4.5 leg (final 4-0)",
+2026-05-28,"28/05 Combo @8.70","Storhamar -1.5 + Nakashima Win + Tsitsipas -1.5 Sets + Kolding U2.5",8.70,"10 NOK","Lost","-10 NOK","Lost on Canada O4.5 leg (final 4-0)",
 2026-05-28,"Canada vs USA (Ice Hockey)","Canada Win",1.62,"10 NOK","Won","+6.20 NOK","16.20 NOK payout",
 2026-05-28,"Finland vs Czechia (Ice Hockey) - Single","Finland -1.5 Handicap",1.82,"10 NOK","Won","+8.20 NOK","18.20 NOK payout (single)",
-2026-05-28,"Finland vs Czechia (Ice Hockey) - Combo leg (lost combo)","Finland -1.5 Handicap",1.82,"10 NOK","Lost",0,"Part of lost combo - no payout from combo",
+2026-05-28,"Finland vs Czechia (Ice Hockey) - Combo leg","Finland -1.5 Handicap",1.82,"10 NOK","Lost",0,"Part of lost combo - no payout from combo",
+
+2026-05-28,"Norge vs Latvia (IIHF)","Under 4.5 Goals",1.70,"10 NOK","Open",0,"New single placed - tight quarterfinal expected",
+2026-05-28,"Sveits vs Sverige (IIHF)","Sveits -1 Handicap",1.90,"10 NOK","Open",0,"New single placed - strong form edge",
+2026-05-28,"Wieczysta Krakow vs Polonia Warszawa","Wieczysta Win",1.82,"10 NOK","Open",0,"New single placed - home dominance",
+2026-05-28,"New Combo @10.00","Norge Under 4.5 + Sveits ML + Wieczysta Win + Under 2.5 (Casa Pia)",10.00,"10 NOK","Open",0,"Combo placed with combined odds ~10. User placed 3 singles + this combo"
