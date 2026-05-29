@@ -31,7 +31,20 @@
 
 - **Tennis Handicaps - Tirante -4.5 Loss**: Tirante handicap did not cover despite being favorite. Shows continued variance in tennis game spreads. Lesson: Even strong favorites can struggle to cover large game handicaps if opponent shows fight or conditions favor closer contest. Prefer smaller spreads or ML for tennis value bets. Update edge calculation for handicaps.
 
-**Guideline Update Notes:**
-- Weekly edge review: Added emphasis on live betting opportunities, tennis handicap caution, combo diversification benefits, and playoff/special teams analysis in hockey/NBA. Caution on South American cup favorites for large spreads. Monthly multiplier review scheduled. Tennis handicap variance noted again.
+**New Lessons from 29/05/2026 Settlements (Appended):**
+- **Draws and Favorite Upsets in Football**: National Bank of Egypt drew 2-2 despite being favored; the Win bet lost. Lesson: In leagues with high draw rates or motivated underdogs, even strong home favorites can fail to win outright. Consider Draw No Bet (DNB) or smaller stakes on ML for such matches. **[Used - Football edge review]**
 
-**Updated:** 29/05/2026
+- **Handball and Esports Favorite Reliability Mixed**: HK Malmö Over hit well, Faze Clan Win succeeded, but Füchse -5.5 and some others lost. Lesson: While favorites often deliver in these sports, large handicaps (-5.5) carry higher variance; stick to smaller spreads or ML when form is not dominant. Good value on overs in even matchups.
+
+- **Darts Experience Edge**: Rob Cross loss despite being favored; van Duijvenbode (Dirk) win as favorite. Lesson: In darts, recent form, averages, and H2H matter more than raw odds; Cross may have been overpriced or off-form. Continue using detailed player stats for darts bets.
+
+- **Tennis Clay Handicap Variance Confirmed**: Zverev -7.5 Games loss despite being heavy favorite. Lesson: Even top players like Zverev can struggle to cover very large game handicaps on clay against resilient opponents. Prefer smaller spreads (-3.5/-4.5) or ML for tennis value. Reinforces previous tennis handicap caution. **[Used - Tennis guidelines]**
+
+- **Combo Variance High Even with Partial Wins**: Multiple combos lost despite some winning legs (e.g., Bencic/Conviction/Faze won but Menzies leg lost; Novak combo had wins but key losses). Lesson: Combos amplify variance; one losing leg kills the bet. Prioritize fewer legs or use insurance like DNB on key anchors. Diversification helps but doesn't eliminate risk. Good reminder for conservative combo construction.
+
+- **Value in 'Overs' and Specific Markets**: Several Over bets (HK Malmö 65.5, Aalesund 2.5) and some ML wins provided good returns. Lesson: When research supports high-scoring or motivated teams, overs and specific MLs can offer solid edges. Continue targeting these in even or high-variance matchups.
+
+**Guideline Update Notes:**
+- Weekly edge review: Added emphasis on live betting opportunities, tennis handicap caution, combo diversification benefits, and playoff/special teams analysis in hockey/NBA. Caution on South American cup favorites for large spreads. Monthly multiplier review scheduled. Tennis handicap variance noted again. New: DNB recommendation for draw-prone football, smaller spreads in darts/tennis, caution on large handicaps.
+
+**Updated:** 29/05/2026 (appended lessons from latest settlements; no deletions)
