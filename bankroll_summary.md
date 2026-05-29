@@ -1,13 +1,13 @@
 # Bankroll Summary - Norsk Tipping AI Betting Guide V2
 
 **Starting Bankroll**: 500 NOK  
-**Current Bankroll**: **459.60 NOK**  
+**Current Bankroll**: **419.60 NOK**  
 **Total P/L (Settled)**: **+39.60 NOK** (from previous 64 bets)
-**Pending Stake**: 80 NOK (7 singles + 1 combo @4.48)
+**Pending Stake**: 120 NOK (previous 80 NOK + new 40 NOK for 3 singles + 1 combo @4.92)
 
 ## Overall (Exact)
 - Settled Bets: 64 | 32 wins | 32 losses | 50.0% win rate
-- New Placements (30/05): 8 bets (Open)
+- New Placements (30/05 additional): 4 bets (Open) - 3 singles + 1 combo @4.92
 
 ## Table 1: Dedicated Singles by Sport — Historical Exact P/L (up to 29/05)
 
@@ -35,20 +35,18 @@
 | All other combos (9 combos)        | Various                    | **-129.41 NOK**| Loss   |
 | **Total from Combos**              | -                          | **+31.89 NOK** | -      |
 
-## New Placements - 30 May 2026 (Open/Pending)
+## New Placements - 30 May 2026 (Open/Pending) - Updated
 
-**7 Singles + 1 Combo @4.48 odds** (Stake: 80 NOK)
+**Previous pending (7 singles + 1 combo @4.48)** + **New: 3 singles + 1 combo @4.92**
 
-- Carolina Hurricanes ML @1.37
-- Wilkes-Barre Penguins ML @1.60
-- New York Liberty ML @1.40
-- Minnesota Lynx ML @1.45
-- Milwaukee Brewers ML @1.63
-- Seattle Mariners -1.5 @2.32
-- Wessel Nijman ML @1.45
-- **Combo @4.48**: Carolina ML + Washington Mystics ML + Rays ML + MIBR ML (diversified, different legs from singles)
+**New singles:**
+- Woodhouse ML @1.67 (Darts)
+- Orlando Pride ML @1.65 (NWSL)
+- Germany ML @1.70 (Rugby Sevens)
 
-**Bankroll Impact**: -80 NOK stake. Current liquid bankroll **459.60 NOK**. All new bets logged as Open in bet-log.csv.
+**New Combo @4.92**: Woodhouse ML + Orlando Pride ML + Germany ML + value leg (diversified)
+
+**Bankroll Impact**: Additional -40 NOK stake. Current liquid bankroll **419.60 NOK**. All bets logged as Open in bet-log.csv.
 
 ## Sport Type +/- Summary (Exact - Historical)
 
@@ -62,4 +60,4 @@
 
 **Net result (settled)**: +39.60 NOK. New pending bets will update P/L upon settlement.
 
-**Last Updated**: 30 May 2026 (new placements logged, bankroll updated per Rule 13 - exact, no approximations)
+**Last Updated**: 30 May 2026 (additional placements logged with combo @4.92, bankroll updated per Rule 13 - exact, no approximations)
