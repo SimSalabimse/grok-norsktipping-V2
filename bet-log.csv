@@ -37,8 +37,8 @@ Date,Match,Bet,Odds,Stake,Status,P/L,Notes,Combined Odds
 2026-05-28,"Canada vs USA (Ice Hockey)","Canada Win",1.62,"10 NOK","Won","+6.20 NOK","16.20 NOK payout",
 2026-05-28,"Finland vs Czechia (Ice Hockey) - Single","Finland -1.5 Handicap",1.82,"10 NOK","Won","+8.20 NOK","18.20 NOK payout (single)",
 
-2026-05-28,"Colorado Eagles vs Chicago Wolves (AHL)","Colorado -0.5",1.85,"10 NOK","Open","","New single placement",
-2026-05-28,"Tirante vs Carreno Busta (Tennis)","Tirante -4.5 Games",1.82,"10 NOK","Open","","New single placement",
-2026-05-28,"San Antonio Spurs vs OKC (NBA)","Spurs -3.5",1.82,"10 NOK","Open","","New single placement",
-2026-05-28,"Boca Juniors vs Univ. Catolica","Boca -1",2.35,"10 NOK","Open","","New single placement (HUB)",
-2026-05-28,"New Combo @6.69","Colorado -0.5 + Spurs -3.5 + Tirante Win + Boca Win","6.69","10 NOK","Open","","New combo placement - varied bet types",
+2026-05-28,"Colorado Eagles vs Chicago Wolves (AHL)","Colorado -0.5",1.85,"10 NOK","Lost","-10 NOK","Final score 2-3. Playoff game, Chicago won on power play goals. Eagles favorite but close contest, underdog covered.",
+2026-05-28,"Tirante vs Carreno Busta (Tennis)","Tirante -4.5 Games",1.82,"10 NOK","Open","","New single placement - result pending",
+2026-05-28,"San Antonio Spurs vs OKC (NBA)","Spurs -3.5",1.82,"10 NOK","Won","+8.20 NOK","18.20 NOK payout. Covered spread in Western Conference Finals playoff game. Wembanyama dominant performance.",
+2026-05-28,"Boca Juniors vs Univ. Catolica","Boca -1",2.35,"10 NOK","Lost","-10 NOK","Final score 0-1. Narrow home loss in Copa Libertadores. Boca eliminated, heading to Sudamericana. Favorite failed to cover despite dominance in possession.",
+2026-05-28,"New Combo @6.69","Colorado -0.5 + Spurs -3.5 + Tirante Win + Boca Win","6.69","10 NOK","Lost","-10 NOK","Combo loss due to Colorado and Boca legs failing. Diversification helped but variance in individual legs hit.",
