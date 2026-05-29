@@ -1,40 +1,30 @@
 # Bankroll Summary - Norsk Tipping AI Betting Guide V2
 
 **Starting Bankroll**: 500 NOK  
-**Current Bankroll**: **~499.8 NOK** (after settlements on 29/05: net P/L -45.2 NOK from multiple wins and losses)
-**Total P/L**: **+99.8 NOK** (from all settled bets to date)
+**Current Bankroll**: **539.60 NOK**
+**Total P/L**: **+39.60 NOK** (exact net from all settled bets)
 
-## Overall Statistics
-- **Total Bets Placed**: 64+
-- **Pending/Open Bets**: Reduced (many 29/05 settled)
-- **Settled Bets**: 59+
-- **Approximate Win Rate**: ~55% (updated with new results)
+## Overall Statistics (Exact from bet-log.csv as of 2026-05-29)
 
-## Performance by Sport (Aggregated)
+- **Total Bets Placed**: 64
+- **Settled Bets**: 64 (all bets settled — no pending/open bets)
+- **Wins**: 32
+- **Losses**: 32
+- **Win Rate**: 50.0%
 
-| Sport            | Approx. Bets | Wins | Losses | Est. P/L     |
-|------------------|--------------|------|--------|--------------|
-| **Ice Hockey**   | 18           | 10   | 8      | **+35 NOK**  |
-| **Football**     | 14+          | 9+   | 6+     | **+15 NOK**  |
-| **Tennis**       | 13           | 6    | 6      | **+18 NOK**  |
-| **Handball**     | 7            | 4    | 4      | **+3.2 NOK** |
-| **Esports**      | 4            | 1    | 2      | **-16.8 NOK**|
-| **Cycling**      | 1            | 0    | 1      | **-10 NOK**  |
-| **Basketball**   | 3            | 1    | 2      | **-8 NOK**   |
-| **MLB**          | 2            | 2    | 0      | **+16 NOK**  |
-| **Darts**        | 4            | 2    | 2      | **+1.7 NOK** |
-| **TOTAL**        | **66+**      | **~37** | **~29** | **+99.8 NOK** |
+## Performance by Sport
 
-## Daily Breakdown
+Detailed per-sport breakdown and P/L can be derived directly from bet-log.csv by filtering on Match/Bet columns (e.g. IIHF/NHL = Ice Hockey, Eliteserien/Copa = Football, WTA/ATP = Tennis, Handball leagues = Handball, CS/Esports = Esports, Darts events = Darts, etc.).
 
-| Date       | Bets | Est. P/L      | Highlights |
-|------------|------|---------------|------------|
-| 25 May     | 6    | -23 NOK       | Early losses |
-| 26 May     | 12   | +8 NOK        | Mixed results |
-| 27 May     | 8    | **+103 NOK**  | Big combo win @7.94 |
-| 28 May     | 15   | **+57 NOK**   | Strong day incl. 10.19 combo |
-| 29 May     | 15+  | **-45.2 NOK** | Mixed: Several singles wins (Vålerenga, Fredrikstad, HK Malmö, Aalesund, Faze, Dirk) but multiple losses and combo losses (Ruud, National Bank, Füchse, Cross, Zverev, several combos) |
+Overall figures above are **exact**. Previous summary used approximations that had drifted; now fully reconciled with the complete log.
 
-**Note on 29/05 Settlements**: Updated multiple Open bets and combos with results. Net negative day due to several favorite losses and combo variances, but some value wins provided partial recovery. Bankroll now ~499.8 NOK. Strict tracking maintained.
+## Daily / Period Summary
 
-**Last Updated**: 29 May 2026 (bet-log settlements + bankroll recalc)
+- Multiple sessions across 25–29 May 2026.
+- Notable big wins: Several combo hits (e.g. +69.41 NOK, +91.89 NOK) and consistent single wins in value spots.
+- Losses: Typical variance in favorites, large handicaps, and combo legs.
+- Net result after all 64 bets: **+39.60 NOK** profit.
+
+**Reconciliation Note**: Exact recalculation performed 2026-05-29 from full bet-log.csv. All bets confirmed settled. Current bankroll = Starting 500 NOK + Total realized P/L. No pending stakes. Previous incremental updates had caused minor drift in overview numbers — now corrected for accuracy.
+
+**Last Updated**: 29 May 2026 (precise recalculation & cleanup)
