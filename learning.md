@@ -29,7 +29,9 @@
 
 - **Combo Loss Impact**: The combo (including Colorado and Boca legs) lost despite Spurs win. Reinforces that even diversified combos have variance; two losing legs sank it. Lesson: While diversification helps, always size stakes conservatively and have a plan for partial losses. Consider adding more 'safer' legs or using DNB options where available.
 
+- **Tennis Handicaps - Tirante -4.5 Loss**: Tirante handicap did not cover despite being favorite. Shows continued variance in tennis game spreads. Lesson: Even strong favorites can struggle to cover large game handicaps if opponent shows fight or conditions favor closer contest. Prefer smaller spreads or ML for tennis value bets. Update edge calculation for handicaps.
+
 **Guideline Update Notes:**
-- Weekly edge review: Added emphasis on live betting opportunities, tennis handicap caution, combo diversification benefits, and playoff/special teams analysis in hockey/NBA. Caution on South American cup favorites for large spreads. Monthly multiplier review scheduled.
+- Weekly edge review: Added emphasis on live betting opportunities, tennis handicap caution, combo diversification benefits, and playoff/special teams analysis in hockey/NBA. Caution on South American cup favorites for large spreads. Monthly multiplier review scheduled. Tennis handicap variance noted again.
 
 **Updated:** 29/05/2026
