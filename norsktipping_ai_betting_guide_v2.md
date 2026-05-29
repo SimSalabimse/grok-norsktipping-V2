@@ -70,6 +70,12 @@ The system focuses on finding **positive expected value** bets by combining:
 | Chess | 1.08 | Skill + psychological edge |
 | Basketball | 1.03 | Pace & injury sensitive |
 | Football | 1.06 | High variance & motivation sensitive |
+| **Cycling** | **1.10** | High variance from crashes, weather, team tactics, and stage types in Grand Tours |
+| **Golf** | **1.12** | Extremely high variance; weather, course fit, and one bad shot/hole can swing entire tournaments |
+| **F1 (Formula 1)** | **1.07** | Technical with strategy, reliability, and safety car variance; car performance dominant but unpredictable elements |
+| **Baseball (MLB)** | **1.09** | High variance due to small samples per game, bullpen volatility, and pitching matchups |
+| **Darts** | **1.02** | Skill-based with mental/form volatility on the day; favorites reliable but higher variance than tennis |
+| **Rugby** | **1.07** | Physical sport with weather, set pieces, momentum swings, and physicality adding variance |
 
 ## Bet Logging & Bankroll
 All bets tracked in `bet-log.csv`. Bankroll starts at 500 NOK. Dynamic Half-Kelly or 10 NOK max per bet.
@@ -79,4 +85,4 @@ All bets tracked in `bet-log.csv`. Bankroll starts at 500 NOK. Dynamic Half-Kell
 - Set strict deposit and loss limits on Norsk Tipping
 - Take breaks after losing sessions
 
-**Last Updated**: 29 May 2026
+**Last Updated**: 30 May 2026 (Added multipliers for Cycling, Golf, F1, Baseball, Darts, Rugby based on variance and predictability research)
