@@ -1,13 +1,15 @@
 # Bankroll Summary - Norsk Tipping AI Betting Guide V2
 
 **Starting Bankroll**: 500 NOK  
-**Current Bankroll**: **539.60 NOK**  
-**Total P/L**: **+39.60 NOK** (exact from all 64 bets)
+**Current Bankroll**: **459.60 NOK**  
+**Total P/L (Settled)**: **+39.60 NOK** (from previous 64 bets)
+**Pending Stake**: 80 NOK (7 singles + 1 combo @4.48)
 
 ## Overall (Exact)
-- 64 bets | 32 wins | 32 losses | 50.0% win rate
+- Settled Bets: 64 | 32 wins | 32 losses | 50.0% win rate
+- New Placements (30/05): 8 bets (Open)
 
-## Table 1: Dedicated Singles by Sport — Exact P/L
+## Table 1: Dedicated Singles by Sport — Historical Exact P/L (up to 29/05)
 
 **Only dedicated single bets** (combos excluded). Exact net P/L calculated from bet-log.csv.
 
@@ -24,7 +26,7 @@
 | **Tennis**         | 9    | 4    | 5      | **-58.50 NOK**    | Weak -  |
 | **Total Dedicated**| **49** | **28** | **21** | **+7.71 NOK**     | -       |
 
-## Table 2: Combo Bets — Exact P/L Breakdown
+## Table 2: Combo Bets — Exact P/L Breakdown (Historical up to 29/05)
 
 | Combo                              | Sports                     | Exact P/L     | Result |
 |------------------------------------|----------------------------|---------------|--------|
@@ -33,7 +35,22 @@
 | All other combos (9 combos)        | Various                    | **-129.41 NOK**| Loss   |
 | **Total from Combos**              | -                          | **+31.89 NOK** | -      |
 
-## Sport Type +/- Summary (Exact)
+## New Placements - 30 May 2026 (Open/Pending)
+
+**7 Singles + 1 Combo @4.48 odds** (Stake: 80 NOK)
+
+- Carolina Hurricanes ML @1.37
+- Wilkes-Barre Penguins ML @1.60
+- New York Liberty ML @1.40
+- Minnesota Lynx ML @1.45
+- Milwaukee Brewers ML @1.63
+- Seattle Mariners -1.5 @2.32
+- Wessel Nijman ML @1.45
+- **Combo @4.48**: Carolina ML + Washington Mystics ML + Rays ML + MIBR ML (diversified, different legs from singles)
+
+**Bankroll Impact**: -80 NOK stake. Current liquid bankroll **459.60 NOK**. All new bets logged as Open in bet-log.csv.
+
+## Sport Type +/- Summary (Exact - Historical)
 
 **Biggest positive drivers**:
 - Handball dedicated bets: **+54.11 NOK**
@@ -43,6 +60,6 @@
 - Tennis dedicated bets: **-58.50 NOK** (large handicaps hurt)
 - Many small combo losses
 
-**Net result**: Dedicated singles were only slightly positive (+7.71 NOK). The **+31.89 NOK** from combos (driven by two big wins) was the main reason the bankroll ended +39.60 NOK.
+**Net result (settled)**: +39.60 NOK. New pending bets will update P/L upon settlement.
 
-**Last Updated**: 29 May 2026 (fully exact P/L from bet-log.csv — no approximations)
+**Last Updated**: 30 May 2026 (new placements logged, bankroll updated per Rule 13 - exact, no approximations)
