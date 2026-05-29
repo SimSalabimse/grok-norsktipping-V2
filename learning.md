@@ -20,7 +20,16 @@
 
 - **Bankroll Recovery & Management**: After volatile period, bankroll recovered strongly to ~541 NOK thanks to disciplined staking and combo hits. New 50 NOK allocation (~9%) maintains conservative approach. Lesson: Stick to unit sizing even after wins; avoid increasing stakes emotionally.
 
-**Guideline Update Notes:**
-- Weekly edge review: Added emphasis on live betting opportunities, tennis handicap caution, and combo diversification benefits. Monthly multiplier review scheduled.
+**Additional Detailed Lessons from Latest Results (29/05/2026 update - Appended):**
+- **AHL Playoffs - Colorado Eagles -0.5 Loss (2-3 final)**: Eagles were favorites but lost a close playoff game in Western Conference Finals. Research shows Chicago Wolves won on power play efficiency (3-for-3 PP in one report). Eagles outshot but penalties hurt. Lesson: In AHL playoffs, special teams (power play/penalty kill) and discipline are crucial for favorites. -0.5 spreads are risky in tight, physical playoff games where underdogs can grind out wins. Avoid large handicaps in postseason without strong PP/PK data.
 
-**Updated:** 28/05/2026
+- **NBA Playoffs - San Antonio Spurs -3.5 Win (covered, +8.20 NOK)**: Spurs covered the spread in Western Conference Finals context (series vs OKC). Wembanyama's dominant performances (e.g., 41 pts/24 reb in one game) and team resilience in close series games helped. Lesson: In NBA playoffs, star-driven teams like Spurs with Wembanyama can cover spreads even in tough series. Monitor series score, home/away, and star usage. Good value on motivated teams in elimination or bounce-back spots.
+
+- **Copa Libertadores/Sudamericana - Boca Juniors -1 Loss (0-1 final)**: Boca lost narrowly at home to Universidad Catolica, resulting in elimination from Libertadores and drop to Sudamericana playoffs. Research indicates low-scoring game, Catolica organized defensively, Boca struggled with finishing despite possession. Lesson: Big South American favorites like Boca can be vulnerable to organized underdogs in cup ties, especially if motivation dips or key players underperform. Narrow losses mean -1 spreads often fail. Better to use ML or smaller spreads/DNB for such matches. Motivation and cup progression stakes are high but unpredictable.
+
+- **Combo Loss Impact**: The combo (including Colorado and Boca legs) lost despite Spurs win. Reinforces that even diversified combos have variance; two losing legs sank it. Lesson: While diversification helps, always size stakes conservatively and have a plan for partial losses. Consider adding more 'safer' legs or using DNB options where available.
+
+**Guideline Update Notes:**
+- Weekly edge review: Added emphasis on live betting opportunities, tennis handicap caution, combo diversification benefits, and playoff/special teams analysis in hockey/NBA. Caution on South American cup favorites for large spreads. Monthly multiplier review scheduled.
+
+**Updated:** 29/05/2026
