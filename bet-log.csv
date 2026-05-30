@@ -81,12 +81,18 @@ Date,Match,Bet,Odds,Stake,Status,P/L,Notes,Combined Odds
 2026-05-30,Gurney vs Evans (Darts),Gurney ML,1.62,10 NOK,Lost,-10 NOK,"Daryl Gurney loss",
 2026-05-30,TuS Metzingen vs SV Union (Handball),TuS Metzingen -3.5,1.75,10 NOK,Won,+7.50 NOK,"TuS Metzingen -3.5 win 17.50 NOK payout",
 2026-05-30,New Combo @4.35,Karmine Corp ML + SG Flensburg-Handewitt ML + Fiji -3.5 + de Decker ML,4.35,10 NOK,Lost,-10 NOK,"Combo loss (only Karmine won)",4.35
-2026-05-30,Berrettini vs Comesana (Tennis),Berrettini ML,1.37,10 NOK,Open,0,"Pending - clear favorite on clay, solid recent wins. Research: strong recent form on clay, good H2H edge.",
-2026-05-30,Tiafoe vs Faria (Tennis),Tiafoe ML,1.50,10 NOK,Open,0,"Pending - experience & ranking edge on surface. Research: solid form, favorable matchup.",
-2026-05-30,Canada vs Finland (IIHF),Canada -1.5,2.45,10 NOK,Open,0,"Placed single - Canada dominant roster",
-2026-05-30,Arnaldi vs Collignon (Tennis),Collignon ML,2.00,10 NOK,Open,0,"Placed single - Clay favorite",
-2026-05-30,Faria vs Tiafoe (Tennis),Tiafoe ML,1.51,10 NOK,Open,0,"Placed single",
-2026-05-30,Auger-Aliassime vs Nakashima (Tennis),Auger ML,1.30,10 NOK,Open,0,"Placed single",
-2026-05-30,New Combo @4.71,Auger win + Gauff win + Herning-Ikast -2.5 + Canada ML,,10 NOK,Open,0,"Placed combo - diversified legs",4.71
-2026-05-30,Bahia vs Botafogo (Brazil),Botafogo DNB,,10 NOK,Open,0,"New single - Botafogo DNB (safer in draw-prone match per learning lessons on football draws)",
-2026-05-30,New Combo @6.74,User placed diversified combo (different legs from singles),,10 NOK,Open,0,"New combo placement @6.74 - ensured diversified, not overlapping with singles per rules",6.74
+2026-05-30,Berrettini vs Comesana (Tennis),Berrettini ML,1.37,10 NOK,Won,+3.70 NOK,"Matteo Berrettini win 13.70 nok payout",
+2026-05-30,Tiafoe vs Faria (Tennis),Tiafoe ML,1.50,10 NOK,Won,+5.00 NOK,"Frances Tiafoe win 15 nok payout",
+2026-05-30,Faria vs Tiafoe (Tennis),Tiafoe ML,1.51,10 NOK,Won,+5.00 NOK,"Frances Tiafoe win 15 nok payout (duplicate bet as noted)",
+2026-05-30,Canada vs Finland (IIHF),Canada -1.5,2.45,10 NOK,Lost,-10 NOK,"Canada -1.5 loss final score 2-4",
+2026-05-30,Arnaldi vs Collignon (Tennis),Collignon ML,2.00,10 NOK,Lost,-10 NOK,"Raphael Collignon loss",
+2026-05-30,Auger-Aliassime vs Nakashima (Tennis),Auger ML,1.30,10 NOK,Won,+3.00 NOK,"Felix Auger-Aliassime win 13 nok payout",
+2026-05-30,Bahia vs Botafogo (Brazil),Botafogo DNB,2.35,10 NOK,Lost,-10 NOK,"Botafogo FR RJ loss",
+2026-05-30,New Combo @4.71,Auger win + Gauff win + Herning-Ikast -2.5 + Canada ML,,10 NOK,Lost,-10 NOK,"Combo loss (Canada leg and others lost)",4.71
+2026-05-30,New Combo @6.74,User placed diversified combo (Schindler + Brewers + Universidad + Flyquest etc),,10 NOK,Lost,-10 NOK,"Combo Martin Schindler loss + Milwaukee Brewers loss + Universidad de Chile loss + Flyquest win - overall loss",6.74
+2026-05-31,Martin Schindler vs Ryan Joyce (Darts),Schindler ML,1.67,10 NOK,Lost,-10 NOK,"Martin Schindler loss (additional single or combo leg)",
+2026-05-31,Houston Astros vs Milwaukee Brewers (MLB),Brewers (or related),1.77,10 NOK,Lost,-10 NOK,"Milwaukee Brewers loss (combo leg or single)",
+2026-05-31,Universidad de Chile vs Deportes Concepcion,Universidad ML,1.47,10 NOK,Lost,-10 NOK,"Universidad de Chile loss (combo leg)",
+2026-05-31,Flyquest vs Sentinels (Esports),Flyquest (part of combo),1.57,10 NOK,Won part but combo overall loss,0,"Flyquest win but combo lost overall",
+2026-05-31,Baltimore Orioles vs Toronto Blue Jays (MLB),Blue Jays -1.5 or ML,2.20,10 NOK,Lost,-10 NOK,"Toronto Blue Jays loss final score 6-5",
+2026-05-31,Pittsburgh Pirates vs Minnesota Twins (MLB),Pirates ML,1.59,10 NOK,Won,+6.50 NOK,"Pittsburgh Pirates win 16.50 nok payout"
