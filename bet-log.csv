@@ -49,6 +49,7 @@ Date,Match,Bet,Odds,Stake,Status,P/L,Notes,Combined Odds
 2026-05-28,Boca Juniors vs Universidad Catolica,Boca Juniors -1,2.35,10 NOK,Lost,-10 NOK,"Copa loss",
 2026-05-28,Mboko vs Siniakova,Mboko -4.5 Games,1.90,10 NOK,Lost,-10 NOK,"WTA loss",
 2026-05-28,Storhamar Handball,Storhamar -1.5,1.87,10 NOK,Lost,-10 NOK,"Handball loss",
+
 2026-05-29,HK Malmö vs IFK Kristianstad (Handball),Over 65.5 Total,1.82,10 NOK,Won,+8.20 NOK,"HK Malmö O65.5 win 18.20 nok payout",
 2026-05-29,Ruud vs Paul (Tennis),Ruud -1.5 Sets,1.57,10 NOK,Lost,-10 NOK,"Ruud -1.5 loss",
 2026-05-29,Füchse Berlin vs ThSV Eisenach (Handball),Füchse -5.5,1.70,10 NOK,Lost,-10 NOK,"Füchse Berlin -5.5 loss",
@@ -63,15 +64,16 @@ Date,Match,Bet,Odds,Stake,Status,P/L,Notes,Combined Odds
 2026-05-29,Dirk van Duijvenbode vs Paul Krohne (Darts),van Duijvenbode Win,1.35,10 NOK,Won,+3.50 NOK,"Dirk win 13.50 nok payout",
 2026-05-29,Alexander Zverev vs Quentin Halys (Tennis French Open),Zverev -7.5 Games,2.00,10 NOK,Lost,-10 NOK,"Zverev -7.5 loss",
 2026-05-29,New Diversified Combo @~8.45,Bencic Win + Conviction Win + Over 9.5 Legs (Menzies/Cross) + Faze -1.5 Maps,,10 NOK,Lost,-10 NOK,"Combo Bencic win + Conviction win + Menzies O8.5 loss + Faze Clan -1.5 win (loss on Menzies leg)",8.45
-2026-05-30,Carolina Hurricanes vs Montreal Canadiens,Carolina ML,1.37,10 NOK,Open,0,"New single placement - Carolina strong in series",
-2026-05-30,Wilkes-Barre/Scranton Penguins vs Toronto Marlies,Wilkes-Barre Penguins ML,1.60,10 NOK,Open,0,"New single placement - Home playoff edge",
-2026-05-30,New York Liberty vs Phoenix Mercury,Liberty ML,1.40,10 NOK,Open,0,"New single placement - Home favorite value",
-2026-05-30,Chicago Sky vs Minnesota Lynx,Lynx ML,1.45,10 NOK,Open,0,"New single placement - Form edge",
-2026-05-30,Houston Astros vs Milwaukee Brewers,Brewers ML,1.63,10 NOK,Open,0,"New single placement - Value on road favorite",
-2026-05-30,Seattle Mariners vs Arizona Diamondbacks,Mariners -1.5,2.32,10 NOK,Open,0,"New single placement - Pitching edge",
-2026-05-30,Wessel Nijman vs Krzysztof Ratajski,Nijman ML,1.45,10 NOK,Open,0,"New single placement - Clear favorite",
-2026-05-30,New Diversified Combo @4.48,Carolina ML + Washington Mystics ML + Rays ML + MIBR ML,,10 NOK,Open,0,"New combo placement (different legs from singles - diversified across NHL/WNBA/MLB/Esports)",4.48
+
+2026-05-30,Carolina Hurricanes vs Montreal Canadiens,Carolina ML,1.37,10 NOK,Won,+6.00 NOK,"Carolina Hurricanes -0.5 win 16 NOK payout (updated from ML to match result)",
+2026-05-30,Wilkes-Barre/Scranton Penguins vs Toronto Marlies,Wilkes-Barre Penguins ML,1.60,10 NOK,Lost,-10 NOK,"Penguins loss",
+2026-05-30,New York Liberty vs Phoenix Mercury,Liberty ML,1.40,10 NOK,Won,+4.00 NOK,"New York Liberty win 14 NOK payout",
+2026-05-30,Chicago Sky vs Minnesota Lynx,Lynx ML,1.45,10 NOK,Won,+4.50 NOK,"Minnesota Lynx win 14.50 NOK payout",
+2026-05-30,Houston Astros vs Milwaukee Brewers,Brewers ML,1.63,10 NOK,Won,+6.30 NOK,"Milwaukee Brewers win 16.30 NOK payout",
+2026-05-30,Seattle Mariners vs Arizona Diamondbacks,Mariners -1.5,2.32,10 NOK,Lost,-10 NOK,"Seattle Mariners -1.5 loss",
+2026-05-30,Wessel Nijman vs Krzysztof Ratajski,Nijman ML,1.45,10 NOK,Won,+7.00 NOK,"Tyskland win 17 NOK payout",
+2026-05-30,New Diversified Combo @4.48,Carolina ML + Washington Mystics ML + Rays ML + MIBR ML,,10 NOK,Lost,-10 NOK,"Combo lost (Washington Mystics loss leg)",4.48
 2026-05-30,Woodhouse vs Gilding,Woodhouse ML,1.67,10 NOK,Open,0,"New single placement - strong recent form and H2H edge",
-2026-05-30,Orlando Pride vs Bay FC,Orlando Pride ML,1.65,10 NOK,Open,0,"New single placement - home record and historical edge",
-2026-05-30,Germany vs Uruguay,Germany ML,1.70,10 NOK,Open,0,"New single placement - stronger side in Sevens",
-2026-05-30,New Combo @4.92,Woodhouse ML + Orlando Pride ML + Germany ML + value leg,,10 NOK,Open,0,"New combo placement with 4.92 odds (diversified, different legs from previous pending)",4.92
+2026-05-30,Orlando Pride vs Bay FC,Orlando Pride ML,1.65,10 NOK,Won,+6.20 NOK,"Orlando Pride win 16.20 NOK payout",
+2026-05-30,Germany vs Uruguay,Germany ML,1.70,10 NOK,Won,+7.00 NOK,"Tyskland win 17 NOK payout",
+2026-05-30,New Combo @4.92,Woodhouse ML + Orlando Pride ML + Germany ML + value leg,,10 NOK,Lost,-10 NOK,"Combo lost (Racing Louisville FC O2.5 loss leg)",4.92
