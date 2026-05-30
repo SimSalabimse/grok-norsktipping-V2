@@ -1,6 +1,8 @@
-## New Entry - 30 May 2026 Placements
-- 5 Singles placed (FaZe, Berrettini, Tiafoe, Gurney, Metzingen)
-- Combo @4.35 with fully diversified legs (no overlap with singles, per permanent rule)
-- Norwegian preference respected - no Swiss handicap
-- Bankroll now 360.60 NOK after stake deduction
-- Continue monitoring combo variance.
+## New Entry - 30 May 2026 Placements and Settlements
+- Added placed bets with results: Faze ML loss, Gurney ML loss, TuS Metzingen -3.5 win, Woodhouse ML win, Combo @4.35 loss
+- Net P/L from these 5 bets: -15.80 NOK
+- Recommendations placed as Open: FaZe ML, Berrettini ML, Tiafoe ML, Gurney ML, TuS Metzingen -3.5, Combo @4.35 (diversified)
+- Norwegian preference respected (no Swiss handicap)
+- Combo discipline maintained (different legs from singles)
+- Bankroll updated per Rule 13
+- Lesson: Even diversified combos can lose on multiple legs; continue prioritizing independent variance sources. [Used - Combo guidelines 30/05]
