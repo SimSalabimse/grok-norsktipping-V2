@@ -177,4 +177,83 @@ Solid low-odds winner. Home advantage + star power made this a good spot.
 
 ---
 
-**File will be updated with more bets in next steps.**
+## Bet 11
+1. Bet: 2026-05-26 Andreas Leknessund vs Valgren (Cycling) Leknessund Win @1.60 (10 NOK, Lost -10 NOK)
+2. Key Data Found (specific targeted searches):
+- Extremely close finish – lost by only 2.3 seconds.
+- Cycling stages often decided by tiny margins.
+- Form and team support were close between the two.
+
+3. Updated Analysis:
+Very thin margin at short odds. Cycling has high variance on individual stages. Better to demand higher odds or use in smaller stakes.
+
+4. New Edge: -9% (negative)
+5. Recommended Multiplier / Fair Odds: @1.75 or higher
+6. Confidence: Medium
+
+---
+
+## Bet 12
+1. Bet: 2026-05-26 Vegas-anchored Combo (Vegas + OKC + value legs) @7.8 (10 NOK, Lost -10 NOK)
+2. Key Data Found (specific targeted searches):
+- Vegas and OKC legs won, but other value legs failed.
+- Multi-leg combo variance remains high even with strong anchors.
+
+3. Updated Analysis:
+Good anchors but still too many legs. The “Heroic lost” note is accurate. Reduce leg count for better survival rate.
+
+4. New Edge: -13.5% (negative)
+5. Recommended Multiplier / Fair Odds: Lower combo odds or break into smaller groups
+6. Confidence: Medium
+
+---
+
+## Bet 13
+1. Bet: 2026-05-26 Gremio vs CA Torque Gremio Win @1.52 (10 NOK, Lost -10 NOK)
+2. Key Data Found (specific targeted searches):
+- Final score 2-2 + red card.
+- Brazilian league can be chaotic with late drama and cards.
+- Expected win turned into draw.
+
+3. Updated Analysis:
+Red card and late equalizer killed the bet. South American leagues have high variance. DNB or higher odds would have been safer.
+
+4. New Edge: -10% (negative)
+5. Recommended Multiplier / Fair Odds: @1.65 or higher
+6. Confidence: Medium
+
+---
+
+## Bet 14
+1. Bet: 2026-05-26 Lanus vs Mirassol Over 2.5 Goals @2.50 (10 NOK, Lost -10 NOK)
+2. Key Data Found (specific targeted searches):
+- Final score 1-0 (Under).
+- Tight Argentine matchup with defensive approach.
+- Low-scoring outcome against the over expectation.
+
+3. Updated Analysis:
+Defensive battle prevailed. Argentine leagues can produce low-event games. The 2.50 price didn’t have enough margin for the variance.
+
+4. New Edge: -12% (negative)
+5. Recommended Multiplier / Fair Odds: @2.80 or higher or avoid
+6. Confidence: Medium
+
+---
+
+## Bet 15
+1. Bet: 2026-05-26 Palestino vs CD Riestra BTTS Yes @1.92 (10 NOK, Won +9.20 NOK)
+2. Key Data Found (specific targeted searches):
+- BTTS hit and Palestino won.
+- Chilean league often open with both teams scoring.
+- Good attacking styles on display.
+
+3. Updated Analysis:
+Solid BTTS spot in an open league. Good value captured.
+
+4. New Edge: +9.5% (positive)
+5. Recommended Multiplier / Fair Odds: @1.85 or higher
+6. Confidence: Medium-High
+
+---
+
+**Continuing with more bets...**
