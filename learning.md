@@ -44,7 +44,18 @@
 
 - **Value in 'Overs' and Specific Markets**: Several Over bets (HK Malmö 65.5, Aalesund 2.5) and some ML wins provided good returns. Lesson: When research supports high-scoring or motivated teams, overs and specific MLs can offer solid edges. Continue targeting these in even or high-variance matchups.
 
-**Guideline Update Notes:**
-- Weekly edge review: Added emphasis on live betting opportunities, tennis handicap caution, combo diversification benefits, and playoff/special teams analysis in hockey/NBA. Caution on South American cup favorites for large spreads. Monthly multiplier review scheduled. Tennis handicap variance noted again. New: DNB recommendation for draw-prone football, smaller spreads in darts/tennis, caution on large handicaps.
+**New Lessons from 30/05/2026 Settlements (Appended):**
+- **WNBA Home Favorites Value**: Liberty, Lynx, and Orlando Pride MLs all delivered clean wins with solid payouts (+4 to +6.2 NOK each). Lesson: In WNBA, strong home favorites often provide reliable value when form and motivation align. Good spot for singles.
 
-**Updated:** 29/05/2026 (appended lessons from latest settlements; no deletions)
+- **NHL ML vs Handicap**: Carolina delivered on the result (noted as -0.5 payout), while Penguins (home favorite) lost. Lesson: In NHL playoffs, ML on strong/motivated teams can be safer than large handicaps; always check series context and recent form.
+
+- **Darts & Rugby Sevens Favorites**: Nijman and Germany (Tyskland) wins hit cleanly. Lesson: In lower-variance or form-driven sports like Darts and Rugby Sevens, well-researched favorites continue to show reliability. Good for building combo anchors.
+
+- **Combo Variance Confirmed Again**: Both @4.48 and @4.92 combos lost despite multiple winning legs (Washington Mystics and Racing Louisville O2.5 were the killers). Lesson: Even well-diversified combos across sports remain high-variance. One leg can wipe out the bet. Prioritize 3-4 leg combos max or use DNB on the strongest conviction legs. **[Used - Combo guidelines]**
+
+- **Overall Day**: Strong single bet results (+41 NOK from wins) offset by combo losses (-20) and two NHL losses, netting small positive. Lesson: Discipline on singles is working; combos need tighter construction or insurance.
+
+**Guideline Update Notes:**
+- Weekly edge review: Added emphasis on live betting opportunities, tennis handicap caution, combo diversification benefits, and playoff/special teams analysis in hockey/NBA. Caution on South American cup favorites for large spreads. Monthly multiplier review scheduled. Tennis handicap variance noted again. New: DNB recommendation for draw-prone football, smaller spreads in darts/tennis, caution on large handicaps. **30/05 update**: WNBA home favorites strong, NHL ML preference noted, Darts/Rugby reliability good for anchors, combo variance reinforced - consider max 4 legs or DNB on key legs going forward.
+
+**Updated:** 30 May 2026 (appended lessons from 30/05 settlements; no deletions, only append)
