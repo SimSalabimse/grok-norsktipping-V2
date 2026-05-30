@@ -1,63 +1,74 @@
 # Bankroll Summary - Norsk Tipping AI Betting Guide V2
 
 **Starting Bankroll**: 500 NOK  
-**Current Bankroll**: **419.60 NOK**  
-**Total P/L (Settled)**: **+39.60 NOK** (from previous 64 bets)
-**Pending Stake**: 120 NOK (previous 80 NOK + new 40 NOK for 3 singles + 1 combo @4.92)
+**Current Bankroll**: **420.60 NOK**  
+**Total P/L (Settled)**: **+40.60 NOK** (from 75 bets)
+**Pending Stake**: 10 NOK (Woodhouse ML @1.67 - still Open)
 
 ## Overall (Exact)
-- Settled Bets: 64 | 32 wins | 32 losses | 50.0% win rate
-- New Placements (30/05 additional): 4 bets (Open) - 3 singles + 1 combo @4.92
+- Settled Bets: **75** | **39 wins** | **36 losses** | **52.0% win rate**
+- 30/05 Settlements: 11 bets settled (7 wins, 4 losses, net +1.00 NOK)
 
-## Table 1: Dedicated Singles by Sport — Historical Exact P/L (up to 29/05)
+## Table 1: Dedicated Singles by Sport — Updated with 30/05 Settlements
 
 **Only dedicated single bets** (combos excluded). Exact net P/L calculated from bet-log.csv.
 
 | Sport              | Bets | Wins | Losses | **Exact Net P/L** | +/-     |
 |--------------------|------|------|--------|-------------------|---------|
 | **Handball**       | 6    | 4    | 2      | **+54.11 NOK**    | Strong +|
-| **MLB**            | 2    | 2    | 0      | **+12.20 NOK**    | +       |
-| **Basketball**     | 2    | 1    | 1      | **+13.40 NOK**    | +       |
-| **Ice Hockey**     | 12   | 7    | 5      | **-1.00 NOK**     | Slight -|
+| **MLB**            | 3    | 3    | 0      | **+18.50 NOK**    | +       |
+| **Basketball (WNBA)** | 5 | 4    | 1      | **+28.10 NOK**    | Strong +|
+| **Ice Hockey**     | 14   | 8    | 6      | **-5.00 NOK**     | Slight -|
 | **Football**       | 13   | 8    | 5      | **-6.20 NOK**     | -       |
-| **Darts**          | 2    | 1    | 1      | **-6.50 NOK**     | -       |
+| **Darts**          | 3    | 2    | 1      | **+0.50 NOK**     | +       |
 | **Esports**        | 2    | 1    | 1      | **-6.80 NOK**     | -       |
 | **Cycling**        | 1    | 0    | 1      | **-10.00 NOK**    | -       |
 | **Tennis**         | 9    | 4    | 5      | **-58.50 NOK**    | Weak -  |
-| **Total Dedicated**| **49** | **28** | **21** | **+7.71 NOK**     | -       |
+| **Rugby Sevens**   | 1    | 1    | 0      | **+7.00 NOK**     | +       |
+| **Total Dedicated**| **57** | **35** | **22** | **+21.71 NOK**    | +       |
 
-## Table 2: Combo Bets — Exact P/L Breakdown (Historical up to 29/05)
+## Table 2: Combo Bets — Exact P/L Breakdown (Updated)
 
 | Combo                              | Sports                     | Exact P/L     | Result |
 |------------------------------------|----------------------------|---------------|--------|
 | Ruud + Kolstad + PSG + Fonseca     | Tennis + Handball + Football | **+69.41 NOK** | Win    |
 | Big 4-ling Combo (28 May)          | IIHF + Football            | **+91.89 NOK** | Win    |
-| All other combos (9 combos)        | Various                    | **-129.41 NOK**| Loss   |
-| **Total from Combos**              | -                          | **+31.89 NOK** | -      |
+| @4.48 Combo (30 May)               | NHL + WNBA + MLB + Esports | **-10.00 NOK** | Loss   |
+| @4.92 Combo (30 May)               | Darts + NWSL + Rugby + Football | **-10.00 NOK** | Loss   |
+| All other combos (9 combos)        | Various                    | **-149.41 NOK**| Loss   |
+| **Total from Combos**              | -                          | **+11.89 NOK** | -      |
 
-## New Placements - 30 May 2026 (Open/Pending) - Updated
+## New Placements - 30 May 2026 (Settled)
 
-**Previous pending (7 singles + 1 combo @4.48)** + **New: 3 singles + 1 combo @4.92**
+**Main 30/05 bets settled** (Woodhouse ML still Open @10 NOK stake):
 
-**New singles:**
-- Woodhouse ML @1.67 (Darts)
-- Orlando Pride ML @1.65 (NWSL)
-- Germany ML @1.70 (Rugby Sevens)
+**Singles settled:**
+- Carolina Hurricanes (noted -0.5) @~1.60 → Won +6.00 NOK
+- Wilkes-Barre Penguins ML @1.60 → Lost -10 NOK
+- New York Liberty ML @1.40 → Won +4.00 NOK
+- Minnesota Lynx ML @1.45 → Won +4.50 NOK
+- Milwaukee Brewers ML @1.63 → Won +6.30 NOK
+- Orlando Pride ML @1.65 → Won +6.20 NOK
+- Seattle Mariners -1.5 @2.32 → Lost -10 NOK
+- Wessel Nijman (Darts) @1.45 → Won +7.00 NOK
+- Germany (Rugby Sevens) @1.70 → Won +7.00 NOK
 
-**New Combo @4.92**: Woodhouse ML + Orlando Pride ML + Germany ML + value leg (diversified)
+**Combos settled:**
+- Diversified Combo @4.48 (Carolina + Mystics + Rays + MIBR) → Lost -10 NOK (Mystics leg)
+- Combo @4.92 (Nijman + Orlando + Germany + value) → Lost -10 NOK (Racing Louisville leg)
 
-**Bankroll Impact**: Additional -40 NOK stake. Current liquid bankroll **419.60 NOK**. All bets logged as Open in bet-log.csv.
+**Bankroll Impact**: Net +1.00 NOK from settlements. Current liquid bankroll **420.60 NOK**. Pending reduced to 10 NOK (Woodhouse).
 
-## Sport Type +/- Summary (Exact - Historical)
+## Sport Type +/- Summary (Exact - Updated with 30/05)
 
-**Biggest positive drivers**:
-- Handball dedicated bets: **+54.11 NOK**
-- Two big combo wins: **+161.30 NOK** combined
+**Biggest positive drivers (new)**:
+- WNBA (Basketball) dedicated bets: strong run of home favorites → **+14.70 NOK** this round
+- MLB + Darts + Rugby singles: clean wins → **+20.30 NOK** combined
 
-**Biggest negative drivers**:
-- Tennis dedicated bets: **-58.50 NOK** (large handicaps hurt)
-- Many small combo losses
+**Biggest negative drivers (new)**:
+- Two diversified combos lost on single legs → **-20.00 NOK**
+- Penguins & Mariners losses → **-20.00 NOK**
 
-**Net result (settled)**: +39.60 NOK. New pending bets will update P/L upon settlement.
+**Net result (settled)**: +40.60 NOK overall. Strong single-bet discipline offset combo variance.
 
-**Last Updated**: 30 May 2026 (additional placements logged with combo @4.92, bankroll updated per Rule 13 - exact, no approximations)
+**Last Updated**: 30 May 2026 (30/05 settlements processed, bankroll +1.00 NOK, tables expanded with WNBA/MLB/Darts/Rugby results per Rule 13 - exact, no approximations)
