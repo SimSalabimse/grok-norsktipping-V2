@@ -55,7 +55,21 @@
 
 - **Overall Day**: Strong single bet results (+41 NOK from wins) offset by combo losses (-20) and two NHL losses, netting small positive. Lesson: Discipline on singles is working; combos need tighter construction or insurance.
 
+**New Lessons from 31/05/2026 Settlements (Appended):**
+- **Tennis ML Reliability vs Handicaps/Combos**: Berrettini, Tiafoe (x2, even duplicate), and Auger MLs all won cleanly with good payouts. Lesson: On clay and in these matchups, ML on strong favorites or value picks provided reliable edges. Duplicates on Tiafoe increased exposure but succeeded; avoid unnecessary duplicates unless high conviction. Tennis MLs outperforming some handicaps in recent variance.
+
+- **MLB Close Game Variance**: Toronto Blue Jays loss in 6-5 final and Pirates win show how close games swing spreads and MLs. Lesson: In MLB, especially divisional or tight series, spreads (-1.5) carry high variance even on form teams. Prefer ML or totals in uncertain pitching matchups. Close scores common.
+
+- **Football DNB Usage & Limitations**: Used Botafogo DNB per previous lessons on draw-prone leagues, but it still lost. Lesson: DNB protects against draws but underdogs can still win outright on motivation or form. Good discipline to use DNB, but doesn't guarantee win. Continue for high-draw leagues but pair with strong research.
+
+- **Combo High Variance Confirmed (Again)**: The @6.74 combo (Schindler + Brewers + Universidad + Flyquest) lost despite Flyquest win leg. Similar to @4.71 loss. Lesson: Even diversified combos across Darts/MLB/South American football/Esports have one leg failure risk wiping the bet. Reinforces max 3-4 legs, use DNB on strongest anchor legs, and size conservatively. Partial wins don't save the combo.
+
+- **Darts Favorite Variance**: Martin Schindler loss despite being favorite. Lesson: In darts, even short odds favorites can lose to in-form opponents or off nights. Continue using form, 180s, and H2H but accept variance; smaller stakes or ML only on very strong edges.
+
+- **Overall Day Impact**: Multiple losses (Schindler, Botafogo, Blue Jays, Collignon, Canada -1.5, combos) offset by tennis and Pirates wins. Net negative day but valuable data on variance. Lesson: Singles in tennis and select MLB provided recovery; combos and some favorites underperformed. Stick to bankroll discipline, review daily for patterns (e.g. close games, combo legs). Good that DNB was used proactively.
+
 **Guideline Update Notes:**
 - Weekly edge review: Added emphasis on live betting opportunities, tennis handicap caution, combo diversification benefits, and playoff/special teams analysis in hockey/NBA. Caution on South American cup favorites for large spreads. Monthly multiplier review scheduled. Tennis handicap variance noted again. New: DNB recommendation for draw-prone football, smaller spreads in darts/tennis, caution on large handicaps. **30/05 update**: WNBA home favorites strong, NHL ML preference noted, Darts/Rugby reliability good for anchors, combo variance reinforced - consider max 4 legs or DNB on key legs going forward.
+- **31/05 update**: Tennis MLs reliable in these spots; MLB spreads high variance in close games - prefer ML/totals; DNB good habit but not foolproof; combos need stricter leg selection and insurance. Duplicate bets noted - avoid unless intentional high conviction. Append-only maintained.
 
-**Updated:** 30 May 2026 (appended lessons from 30/05 settlements; no deletions, only append)
+**Updated:** 31 May 2026 (appended lessons from 31/05 settlements; no deletions, only append. New lessons on tennis MLs, MLB variance, DNB limits, combo persistence, darts favorites)
