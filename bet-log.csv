@@ -96,8 +96,8 @@ Date,Match,Bet,Odds,Stake,Status,P/L,Notes,Combined Odds
 2026-05-31,Flyquest vs Sentinels (Esports),Flyquest (part of combo),1.57,10 NOK,Won part but combo overall loss,0,"Flyquest win but combo lost overall",
 2026-05-31,Baltimore Orioles vs Toronto Blue Jays (MLB),Blue Jays -1.5 or ML,2.20,10 NOK,Lost,-10 NOK,"Toronto Blue Jays loss final score 6-5",
 2026-05-31,Pittsburgh Pirates vs Minnesota Twins (MLB),Pirates ML,1.59,10 NOK,Won,+6.50 NOK,"Pittsburgh Pirates win 16.50 nok payout",
-2026-05-31,Wade vs Evans (Darts),Wade ML,1.40,10 NOK,Open,0,"Placed single - strong recent form and H2H edge",
-2026-05-31,Nijman vs Searle (Darts),Nijman ML,1.52,10 NOK,Open,0,"Placed single - form edge in tournament",
-2026-05-31,Aalborg Håndbold vs Skanderborg (Handball),1. omgang handicap 2-veis -3.5,1.87,10 NOK,Open,0,"Placed single - dominant home team in league (user selected 1. omgang version)",
-2026-05-31,Mensik vs Rublev (French Open),Mensik ML,2.00,10 NOK,Open,0,"Placed single - current clay momentum",
-2026-05-31,New Combo @8.40,Wade ML + Nijman ML + Aalborg 1. omgang -3.5 + Mensik ML,,10 NOK,Open,0,"Diversified combo per rules - different bet types, no exact overlap with singles",8.40
+2026-05-31,Wade vs Evans (Darts),Wade ML,1.40,10 NOK,Lost,-10 NOK,"James Wade loss - lost by a lot",
+2026-05-31,Nijman vs Searle (Darts),Nijman ML,1.52,10 NOK,Won,+5.20 NOK,"Wessel Nijman confident win 6-3",
+2026-05-31,Aalborg Håndbold vs Skanderborg (Handball),1. omgang handicap 2-veis -3.5,1.87,10 NOK,Open,0,"Pending - user selected 1. omgang version",
+2026-05-31,Mensik vs Rublev (French Open),Mensik ML,2.00,10 NOK,Open,0,"Pending (combo mentions Mensik +1.5 pending)",
+2026-05-31,New Combo @8.40,Wade ML + Nijman ML + Aalborg 1. omgang -3.5 + Mensik ML,,10 NOK,Open,0,"Combo status: Wessel (Nijman) win, Wade loss, Aalborg pending, Mensik +1.5 pending. Partial results logged.",8.40
