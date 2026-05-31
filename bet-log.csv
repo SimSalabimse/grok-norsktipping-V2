@@ -98,12 +98,11 @@ Date,Match,Bet,Odds,Stake,Status,P/L,Notes,Combined Odds
 2026-05-31,Pittsburgh Pirates vs Minnesota Twins (MLB),Pirates ML,1.59,10 NOK,Won,+6.50 NOK,"Pittsburgh Pirates win 16.50 nok payout",
 2026-05-31,Wade vs Evans (Darts),Wade ML,1.40,10 NOK,Lost,-10 NOK,"James Wade loss - lost by a lot",
 2026-05-31,Nijman vs Searle (Darts),Nijman ML,1.52,10 NOK,Won,+5.20 NOK,"Wessel Nijman confident win 6-3",
-2026-05-31,Aalborg Håndbold vs Skanderborg (Handball),1. omgang handicap 2-veis -3.5,1.87,10 NOK,Open,0,"Pending - user selected 1. omgang version",
-2026-05-31,Mensik vs Rublev (French Open),Mensik ML,2.00,10 NOK,Open,0,"Pending (combo mentions Mensik +1.5 pending)",
-2026-05-31,New Combo @8.40,Wade ML + Nijman ML + Aalborg 1. omgang -3.5 + Mensik ML,,10 NOK,Open,0,"Combo status: Wessel (Nijman) win, Wade loss, Aalborg pending, Mensik +1.5 pending. Partial results logged.",8.40
-2026-05-31,Umeå FC vs IFK Stocksund,Umeå HUB,1.50,10 NOK,Open,0,"Placed single - strong home edge vs bottom team (Stocksund poor form)",
-2026-05-31,Vålerenga W vs Lyn W,Vålerenga ML,1.60,10 NOK,Open,0,"Placed single - strong form, good position and H2H edge",
-2026-05-31,Esbjerg FB vs Lyngby BK,Over 2.5 Goals,1.47,10 NOK,Open,0,"Placed single - leaky defenses, high scoring tendency",
-2026-05-31,New Combo @5.69,Malmö HUB + Hillerød BTTS + Rælingen O2.5 + Horsens HUB + Vålerenga HUB,,10 NOK,Open,0,"5-leg combo placed by user (includes Vålerenga HUB). Note: Exceeds preferred max 4 legs but logged as placed.",5.69
-2026-05-31,3/4 System Bet (Östersund + PK-35 + THW Kiel + Norrköping),Östersund Scorer i Begge Omganger + PK-35 BTTS Ja + THW Kiel 1. Omgang -1.5 + Norrköping Scorer i Begge Omganger,,60 NOK,Open,0,"3/4 System placed as dobler (min 10 NOK per combination/leg). Total stake 60 NOK. Tromsdalen leg skipped (match started). Legs: Östersund Scorer Both Halves @2.40, PK-35 BTTS Ja @1.65, THW Kiel 1H -1.5 @1.87, Norrköping Scorer Both Halves @2.60. Per Rule 16 testing.",~13.8 (est. for full 4/4)
-2026-05-31,3/4 System (Dobler) - Team Liquid + Ruud + Krakow + Cordoba,Team Liquid -2.5 Maps @2.00 + Ruud 1. Sett Vinner @1.75 + Wieczysta Krakow DNB @2.05 + Cordoba HUB @1.50,,60 NOK,Open,0,"3/4 System (Dobler) placed by user. Total stake 60 NOK. Legs: Team Liquid -2.5 @2.00 (Esports), Ruud 1st Set Win @1.75 (Tennis), Wieczysta Krakow DNB @2.05 (Football - safer DNB leg), Cordoba HUB @1.50 (Football). Includes proactive safer DNB anchor. Potential system payout 251.78 NOK. Per Rule 16. Diversified across Esports, Tennis, Football.", system payout 251.78 NOK
+2026-05-31,Aalborg Håndbold vs Skanderborg (Handball),1. omgang handicap 2-veis -3.5,1.87,10 NOK,Lost,-10 NOK,"Aalborg -3.5 loss",
+2026-05-31,Mensik vs Rublev (French Open),Mensik ML,2.00,10 NOK,Won,+9.50 NOK,"Mensik win - 19.50 NOK payout",
+2026-05-31,3/4 System (Östersund + PK-35 + THW Kiel + Norrköping),Östersund Scorer i Begge Omganger + PK-35 BTTS Ja + THW Kiel 1. Omgang -1.5 + Norrköping Scorer i Begge Omganger,,60 NOK,Settled (partial),-20.40 NOK,"Dobler System: Östersund BTTS win, PK-35 win, THK Kiel -1.5 loss, Norrköping loss. Payout 39.60 NOK on 60 NOK stake. Net -20.40 NOK.",
+2026-05-31,Umeå FC vs IFK Stocksund,Umeå HUB,1.50,10 NOK,Lost,-10 NOK,"Umeå FC loss",
+2026-05-31,Vålerenga W vs Lyn W,Vålerenga ML,1.60,10 NOK,Lost,-10 NOK,"Vålerenga loss",
+2026-05-31,Esbjerg FB vs Lyngby BK,Over 2.5 Goals,1.47,10 NOK,Won,+4.70 NOK,"Esbjerg FB O2.5 win - 14.70 NOK payout",
+2026-05-31,5-leg Combo (Malmö + Hillerød + Rælingen + Horsens + Vålerenga),Malmö FF win + Hillerød BTTS win + Rælingen O2.5 loss + AC Horsens win + Vålerenga loss,,10 NOK,Lost,-10 NOK,"Combo: Multiple legs lost (Rælingen and Vålerenga lost)",
+2026-05-31,3/4 System (Dobler) - Team Liquid + Ruud + Krakow + Cordoba,Team Liquid -2.5 Maps @2.00 + Ruud 1. Sett Vinner @1.75 + Wieczysta Krakow DNB @2.05 + Cordoba HUB @1.50,,60 NOK,Settled (partial),-19.00 NOK,"Dobler System: Team Liquid -2.5 win, Ruud loss, Wieczysta win, Cordoba loss. Payout 41 NOK on 60 NOK stake. Net -19 NOK. 2 legs won.",251.78 NOK potential
