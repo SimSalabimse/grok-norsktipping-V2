@@ -61,6 +61,46 @@ After the May 2026 betting period, a full performance review was conducted (deta
 
 These lessons are now embedded in Edge Rules, Research Protocol, and Combo guidelines. Weekly calibration reviews will continue.
 
+**16. NEW: System Bets (Systemspill) – Risk Management Upgrade (ADDED 31/05/2026)**
+
+**Background**: Full accumulators (combos) have shown high fragility in May 2026 — one losing leg often wipes out the entire stake. To reduce this variance while still allowing multi-leg bets with the new broader markets, we will use **Norsk Tipping Systemspill** (system bets).
+
+**How System Bets Work in Norsk Tipping**:
+- You select 3–6 legs.
+- Instead of requiring all legs to win (full accumulator), you choose a system level, e.g.:
+  - **3/4 system** on 4 legs: You get paid on every winning combination of any 3 legs.
+  - **2/3 system** on 3 legs: Paid on any 2 out of 3.
+  - **3/5 or 4/5 system** on 5 legs: More combinations, higher chance of partial return.
+- If one leg loses, you can still receive payouts from the combinations that exclude the losing leg.
+
+**How We Will Use System Bets**:
+- Preferred approach when using 4+ legs (especially when incorporating 1H markets, BTTS halves, timing props, etc.).
+- Default recommendation: **3/4 system** for 4-leg ideas and **3/5 system** for 5-leg ideas (balances risk and payout).
+- For very strong 3-leg ideas: Can still use full 3/3 accumulator or 2/3 system.
+- Always include at least one high-conviction/safer leg (DNB or strong researched ML) as an anchor.
+- Still apply all existing rules: Max effective legs, positive EV ≥5% post-multiplier, deeper research on timing/motivation, and the new broader market evaluation (Rule 14).
+
+**Logging Rules in bet-log.csv**:
+- Clearly mark as system bet, e.g.:
+  - "3/4 System @ ~14.50 combined | Legs: Vålerenga Scorer Both Halves + Umeå Over 1.5 1H + Hillerød BTTS 1H + Rælingen Over 2.5 1H"
+  - Include estimated combined odds for the system level.
+- Track separately from full accumulators so we can compare performance (win rate, average return, variance).
+- When results come in, note how many legs won and what the actual payout was.
+
+**Benefits**:
+- Significantly reduces the chance of total loss when one leg fails.
+- Smoother bankroll curve.
+- Allows us to confidently use 4–5 legs with the higher-odds alternative markets.
+- Still delivers good payouts on partial success.
+
+**Trade-off**:
+- Maximum payout is lower than a full accumulator at the same odds.
+- Slightly more complex to calculate exact returns (Norsk Tipping shows it clearly when placing).
+
+**Testing Period**: We will test system bets for the next several days/analyses and compare results against previous full accumulators. Adjustments to system level (e.g. more 2/3 or 4/5) will be made based on data.
+
+This is a direct response to May 2026 combo fragility while maintaining our goal of positive EV and higher combined odds.
+
 This is the main living document for our data-driven betting system on Norsk Tipping. It incorporates lessons from previous runs, value betting principles, bankroll management, and responsible gambling.
 
 ## System Overview
@@ -113,15 +153,15 @@ The system focuses on finding **positive expected value** bets by combining:
 - **MLB**: Prefer ML or totals over -1.5 spreads in close-expected or divisional games. Close games high variance confirmed in May.
 - **Handball**: Favor smaller handicaps (-2.5 to -3.5) or Overs on strong home sides; avoid large spreads (-5.5+). Blowout losses on large handicaps noted.
 - **Ice Hockey**: Prioritize ML or totals; limit -1.5 to non-OT/playoff or very strong motivated favorites. OT and playoff volatility high.
-- **Combos**: Max 4 legs. Always include at least one safer leg (DNB, strong ML anchor, or researched Over). Diversify across sports/bet types. **May review reinforced need for stricter leg limits and safer anchors due to high variance.**
+- **Combos & Systems**: Max 4–5 legs. Prefer **Systemspill (3/4 or 3/5)** when using 4+ legs to reduce total-loss risk. Always include at least one safer leg (DNB, strong ML anchor, or researched Over). Diversify across sports/bet types.
 - **Football**: Continue DNB for home favorites in draw-prone leagues. Good value on Overs in open leagues. Prioritize half-specific and timing markets when team patterns support early/late scoring. Cup ties unpredictable — extra motivation/injury checks required.
-- **Broader Markets**: When odds files contain 1st half O/U, BTTS halves, "most goals round", DNB, or timing props at ≥1.55, evaluate them with team-specific data (e.g., % of goals scored in 1H, opponent early concession rates). Use these to build higher-payout combos without sacrificing edge.
+- **Broader Markets**: When odds files contain 1st half O/U, BTTS halves, "most goals round", DNB, or timing props at ≥1.55, evaluate them with team-specific data (e.g., % of goals scored in 1H, opponent early concession rates). Use these to build higher-payout combos/systems without sacrificing edge.
 
 **May 2026 Performance Review Summary (Integrated)**:
 - Overall: Volatile month with strong periods (big combo wins) offset by clusters of losses on favorites and combos.
 - Best performing: Tennis MLs, smaller handball bets, selected football overs/home MLs.
 - Weakest: Short-odds Darts favorites, large handicaps across sports, combo fragility.
-- Action taken: Stricter filters on short odds, reinforced ML preference, tighter combo rules.
+- Action taken: Stricter filters on short odds, reinforced ML preference, tighter combo rules, and introduction of Systemspill for better risk management.
 
 These refinements are data-driven from the full May 2026 bet log and detailed analyses. They will be used in all future pre-bet EV calculations and research.
 
@@ -133,4 +173,4 @@ All bets tracked in `bet-log.csv`. Bankroll starts at 500 NOK. Dynamic Half-Kell
 - Set strict deposit and loss limits on Norsk Tipping
 - Take breaks after losing sessions
 
-**Last Updated**: 31 May 2026 (Full May 2026 performance review completed and integrated. Added Rule 15, strengthened Darts/short-odds rules, combo discipline, and Edge Rules based on May data. New calibration section added.)
+**Last Updated**: 31 May 2026 (Added comprehensive Rule 16 on System Bets / Systemspill. Updated Combo & Systems section in Edge Rules. This is a direct response to May combo fragility while keeping higher-odds multi-leg potential.)
