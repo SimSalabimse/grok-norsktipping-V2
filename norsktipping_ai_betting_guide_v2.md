@@ -5,7 +5,7 @@
 2. Always load and follow this guide + bet-log.csv + learning.md + bankroll_summary.md at the start of every response.
 3. Bankroll Tracking: Maintain accurate running bankroll (starting 500 NOK). **After every bet placement or settlement, you MUST update bankroll_summary.md** (see detailed rule below).
 4. Long-term Plan: 2% Kelly max (10 NOK units), positive EV ≥5% post-multiplier, max 4-5 bets/day, weekly review.
-5. Full Deep Dive: Scan EVERY match/line in the odds file. No defaulting to first matches or HUBs. Use search tools + Flashscore for standings, form (last 5-6), H2H, injuries, motivation.
+5. Full Deep Dive: Scan EVERY match/line in the odds file. No defaulting to first matches or HUBs. Use search tools + Flashscore for standings, form (last 5-6), H2H, injuries, motivation. **Explicitly evaluate alternative markets** (1st half/period O/U, BTTS in halves, "Omgang med flest mål", timing of first goal, DNB, specific half results, player props) alongside traditional HUB/Handicap/O/U when they offer ≥1.55 odds with supporting team trends.
 6. Easy-to-Read Format: Use clear tables, bold, bullets, sections.
 7. Say "No" if needed: Be honest about bad/low-EV ideas and propose better alternatives.
 8. Thorough Thinking: Think carefully and slowly on every response (simulate deep reasoning even mid-conversation).
@@ -20,7 +20,7 @@
    6. Confidence: [High/Medium/etc. with reasoning]
    Append all analyses to learning.md under a clear "Detailed Bet Analyses from [Date] Results" section. This ensures consistent depth and continuous learning.
 
-10. Proactive Ideas: Suggest DNB in combos, safer legs, improvements proactively.
+10. Proactive Ideas: Suggest DNB in combos, safer legs, improvements proactively. **Prioritize non-traditional markets for combo construction to achieve higher combined odds while maintaining EV.**
 11. First Principles: Base all decisions on positive EV, rigorous research, bankroll discipline, truth-seeking.
 12. **File Maintenance Rules (NEW - 28/05/2026, UPDATED 29/05/2026)**:
     - **learning.md**: Always append new lessons. Never delete. Use [Used] tags when lessons are incorporated into guidelines.
@@ -41,6 +41,17 @@
 - Push the update using GitHub tools and verify with re-read.
 
 This rule exists because the user wants full transparency on per-sport performance and combo impact at all times.
+
+**14. NEW: Market Diversification for Higher Odds & Better Edges (ADDED 31/05/2026)**
+Proactively evaluate and prioritize non-HUB / non-standard markets in every odds file analysis:
+- 1st half / period-specific (O/U 0.5/1.5, BTTS in halves, most goals in round/period)
+- Timing and scorer props (time of first goal, scorer in both halves)
+- DNB, Double Chance, and alternative results
+- When these markets offer odds ≥1.55 and are supported by documented team trends (e.g., teams that score 55%+ of goals early, strong 1H attacking patterns, opponent vulnerabilities in specific periods), default to using them — especially for combo legs.
+
+Goal: Construct singles and especially combos with meaningfully higher combined odds (target >6.5–8+) while preserving or improving positive EV through better value pricing and team-specific statistical edges.
+
+This directly addresses the need to move beyond defaulting to HUB/Handicap/O/U and unlocks higher-payout opportunities with rigorous backing.
 
 This is the main living document for our data-driven betting system on Norsk Tipping. It incorporates lessons from previous runs, value betting principles, bankroll management, and responsible gambling.
 
@@ -67,6 +78,7 @@ The system focuses on finding **positive expected value** bets by combining:
 - Referee statistics (if relevant)
 - Weather conditions (for outdoor sports)
 - Motivation factors (relegation battle, title race, cup games, etc.)
+- **Team-specific scoring timing patterns** (1st half vs 2nd half goal %, early goal tendencies, BTTS in halves) when relevant markets are available.
 - Any other relevant news from reliable sources (Sofascore, Flashscore, Transfermarkt, official league sites, etc.)
 
 **This research step is now mandatory and must be documented in every betting recommendation.**
@@ -93,8 +105,9 @@ The system focuses on finding **positive expected value** bets by combining:
 - **MLB**: Prefer ML or totals over -1.5 spreads in close-expected or divisional games.
 - **Handball**: Favor smaller handicaps (-2.5 to -3.5) or Overs on strong home sides; avoid large spreads.
 - **Ice Hockey**: Prioritize ML or totals; limit -1.5 to non-OT/playoff or very strong motivated favorites.
-- **Combos**: Max 4 legs. Always include at least one safer leg (DNB, strong ML anchor, or researched Over). Diversify across sports/bet types.
-- **Football**: Continue DNB for home favorites in draw-prone leagues. Good value on Overs in open leagues.
+- **Combos**: Max 4 legs. Always include at least one safer leg (DNB, strong ML anchor, or researched Over). Diversify across sports/bet types. **Actively incorporate 1st half, timing, and alternative markets to increase combined odds.**
+- **Football**: Continue DNB for home favorites in draw-prone leagues. Good value on Overs in open leagues. **Prioritize half-specific and timing markets when team patterns support early/late scoring.**
+- **Broader Markets**: When odds files contain 1st half O/U, BTTS halves, "most goals round", DNB, or timing props at ≥1.55, evaluate them with team-specific data (e.g., % of goals scored in 1H, opponent early concession rates). Use these to build higher-payout combos without sacrificing edge.
 
 These refinements are data-driven from ~95 detailed bet analyses (positive edges in Tennis MLs, smaller handball bets, home MLs/Overs; negative in large spreads, combos, some favorites). They will be used in all future pre-bet EV calculations and research.
 
@@ -106,4 +119,4 @@ All bets tracked in `bet-log.csv`. Bankroll starts at 500 NOK. Dynamic Half-Kell
 - Set strict deposit and loss limits on Norsk Tipping
 - Take breaks after losing sessions
 
-**Last Updated**: 31 May 2026 (Major update: Added detailed Bet Analysis requirement for results; formalized Darts multiplier increase to 1.04, enhanced Tennis notes and edge rules, added comprehensive Edge Rules section based on full May 2026 Learnigs.txt data. Multipliers and principles validated and refined.)
+**Last Updated**: 31 May 2026 (Added Market Diversification rule #14 and integrated broader market evaluation into Research Protocol, Full Deep Dive, Proactive Ideas, Edge Rules, and Football guidelines. This enables systematically higher-odds bets with strong edges by leveraging 1st half, timing, and alternative markets when supported by team patterns.)
