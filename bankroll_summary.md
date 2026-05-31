@@ -1,12 +1,12 @@
 # Bankroll Summary - Norsk Tipping AI Betting Guide V2
 
 **Starting Bankroll**: 500 NOK  
-**Current Bankroll (Liquid)**: **213.20 NOK** (previous 263.20 - 50 NOK for 5 new bets: 3 singles + 1 combo)  
+**Current Bankroll (Liquid)**: **203.20 NOK** (previous 213.20 - 10 NOK for 3/4 System bet)  
 **Total P/L (All Settled Bets)**: **-11.00 NOK**  
-**Pending Stake**: +50 NOK (new placements)  
+**Pending Stake**: +10 NOK (new 3/4 System)  
 
 ## Overall (Exact)
-- Total Bets Logged: ~109 | Win rate ~52%
+- Total Bets Logged: ~110 | Win rate ~52%
 
 ## Table 1: Dedicated Singles by Sport (Exact Net P/L) - Updated with new 31/05 placements
 
@@ -16,15 +16,16 @@
 | Tennis | 13 | 7 | 5 | +64.61 (Mensik Open) | Strong + |
 | Football (incl. Women's, lower leagues) | 47+ | 26 | 19 | Previous + new Umeå, Vålerenga W, Esbjerg Over (Open) | + (pending) |
 | Handball | 5+ | 4 | 1 | Previous (Aalborg pending) | + |
-| Other | Adjusted | ... | ... | New combo impact pending | Mixed |
+| Other | Adjusted | ... | ... | New system bet impact pending | Mixed |
 
 ## Table 2: Combo Bets Breakdown - Updated
 
-| Combo | Legs/Sports | Odds | Stake | Status | P/L | Notes |
+| Combo / System | Legs/Sports | Odds | Stake | Status | P/L | Notes |
 |-------|-------------|------|-------|--------|-----|-------|
 | Previous @8.40 | ... | 8.40 | 10 NOK | Open (partial) | 0 | Partial results logged |
-| New Combo @5.69 (2026-05-31) | Malmö HUB + Hillerød BTTS + Rælingen O2.5 + Horsens HUB + Vålerenga HUB (Football/Women's) | 5.69 | 10 NOK | Open | 0 | 5-leg combo placed by user. Note: Exceeds preferred max 4 legs guideline but logged exactly as placed. Includes Vålerenga HUB. |
+| New Combo @5.69 (2026-05-31) | Malmö HUB + Hillerød BTTS + Rælingen O2.5 + Horsens HUB + Vålerenga HUB (Football/Women's) | 5.69 | 10 NOK | Open | 0 | 5-leg combo placed by user. Note: Exceeds preferred max 4 legs guideline but logged exactly as placed. |
+| **New 3/4 System (2026-05-31)** | Östersund Scorer Both Halves + PK-35 BTTS Ja + THW Kiel 1H -1.5 + Norrköping Scorer Both Halves | ~13.8 (est.) | 10 NOK | Open | 0 | 3/4 System placed (Tromsdalen leg skipped - match started). Per Rule 16 testing. | 
 
-**Sport Type +/- Summary**: New placements today in Football (Swedish lower league, Norwegian/Danish women's and lower leagues). Combo is 5 legs (higher variance risk noted). Pending from previous round (Aalborg, Mensik) still active. Bankroll adjusted for 50 NOK new stake. All rules followed for logging.
+**Sport Type +/- Summary**: New placement today is a **3/4 System bet** across Football and Handball (Östersund, PK-35, THW Kiel, Norrköping). This follows the new system betting approach to reduce total-loss risk. Bankroll adjusted for 10 NOK stake. All rules followed for logging.
 
-**Last Updated**: 31 May 2026 | New placements logged: 3 singles + 5-leg combo @5.69. Exact deduction applied. Two tables maintained per Rule 13. Combo leg count noted.
+**Last Updated**: 31 May 2026 | New 3/4 System bet logged. Exact deduction applied. Two tables maintained per Rule 13. System bet tracked separately.
