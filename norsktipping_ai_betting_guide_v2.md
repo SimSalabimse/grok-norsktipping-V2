@@ -51,7 +51,15 @@ Proactively evaluate and prioritize non-HUB / non-standard markets in every odds
 
 Goal: Construct singles and especially combos with meaningfully higher combined odds (target >6.5–8+) while preserving or improving positive EV through better value pricing and team-specific statistical edges.
 
-This directly addresses the need to move beyond defaulting to HUB/Handicap/O/U and unlocks higher-payout opportunities with rigorous backing.
+**15. NEW: May 2026 Performance Review & System Calibration (ADDED 31/05/2026)**
+After the May 2026 betting period, a full performance review was conducted (detailed in learning.md). Key findings:
+- Short-odds favorites (<1.60), especially in Darts, showed higher variance than expected. Require stronger multi-factor confirmation (recent form + H2H + averages/stats) before full stake.
+- Large handicaps (-4.5+ in Tennis, -5.5+ in Handball, -1.5 in volatile hockey) underperformed. Default to ML or small spreads.
+- Combos remain high-variance even when diversified. Strict max 4 legs, with at least 2 high-conviction/safer legs (DNB or strong researched ML).
+- Cup ties and close games (MLB, some football) carry extra variance — prioritize motivation, injuries, and H2H.
+- Positive areas: Tennis MLs, smaller handball overs/handicaps, selected football overs, and well-researched home favorites performed reliably.
+
+These lessons are now embedded in Edge Rules, Research Protocol, and Combo guidelines. Weekly calibration reviews will continue.
 
 This is the main living document for our data-driven betting system on Norsk Tipping. It incorporates lessons from previous runs, value betting principles, bankroll management, and responsible gambling.
 
@@ -96,20 +104,26 @@ The system focuses on finding **positive expected value** bets by combining:
 | **Golf** | **1.12** | Extremely high variance; weather, course fit, and one bad shot/hole can swing entire tournaments |
 | **F1 (Formula 1)** | **1.07** | Technical with strategy, reliability, and safety car variance; car performance dominant but unpredictable elements |
 | **Baseball (MLB)** | **1.09** | High variance due to small samples per game, bullpen volatility, and pitching matchups; prefer ML or totals over spreads in close games |
-| **Darts** | **1.04** | Skill-based with mental/form volatility on the day; favorites reliable but higher variance than tennis. **Updated from 1.02** after May 2026 data showed repeated upsets on short-odds favorites (e.g. Schindler, Cross, Gurney). Require strong recent form + H2H + averages confirmation. |
+| **Darts** | **1.04** | Skill-based with mental/form volatility on the day; favorites reliable but higher variance than tennis. **Updated from 1.02** after May 2026 data showed repeated upsets on short-odds favorites (e.g. Schindler, Cross, Gurney, Wade). Require strong recent form + H2H + averages confirmation. **Short odds (<1.60) need extra scrutiny.** |
 | **Rugby** | **1.07** | Physical sport with weather, set pieces, momentum swings, and physicality adding variance |
 
-**Edge Rules & Refinements (Added 31/05/2026 from comprehensive Learnigs.txt analysis)**:
-- **Tennis**: Default to ML @1.30–1.60 on form favorites. Limit large handicaps.
-- **Darts**: Short-odds favorites require top recent form + H2H confirmation.
-- **MLB**: Prefer ML or totals over -1.5 spreads in close-expected or divisional games.
-- **Handball**: Favor smaller handicaps (-2.5 to -3.5) or Overs on strong home sides; avoid large spreads.
-- **Ice Hockey**: Prioritize ML or totals; limit -1.5 to non-OT/playoff or very strong motivated favorites.
-- **Combos**: Max 4 legs. Always include at least one safer leg (DNB, strong ML anchor, or researched Over). Diversify across sports/bet types. **Actively incorporate 1st half, timing, and alternative markets to increase combined odds.**
-- **Football**: Continue DNB for home favorites in draw-prone leagues. Good value on Overs in open leagues. **Prioritize half-specific and timing markets when team patterns support early/late scoring.**
+**Edge Rules & Refinements (Added 31/05/2026 from comprehensive Learnigs.txt analysis + May 2026 Full Review)**:
+- **Tennis**: Default to ML @1.30–1.60 on form favorites. Limit large handicaps. May review confirmed ML reliability vs spread variance.
+- **Darts**: Short-odds favorites require top recent form + H2H + averages confirmation. Multiple short-odds darts legs in combos discouraged. May data showed repeated upsets on <1.60 favorites.
+- **MLB**: Prefer ML or totals over -1.5 spreads in close-expected or divisional games. Close games high variance confirmed in May.
+- **Handball**: Favor smaller handicaps (-2.5 to -3.5) or Overs on strong home sides; avoid large spreads (-5.5+). Blowout losses on large handicaps noted.
+- **Ice Hockey**: Prioritize ML or totals; limit -1.5 to non-OT/playoff or very strong motivated favorites. OT and playoff volatility high.
+- **Combos**: Max 4 legs. Always include at least one safer leg (DNB, strong ML anchor, or researched Over). Diversify across sports/bet types. **May review reinforced need for stricter leg limits and safer anchors due to high variance.**
+- **Football**: Continue DNB for home favorites in draw-prone leagues. Good value on Overs in open leagues. Prioritize half-specific and timing markets when team patterns support early/late scoring. Cup ties unpredictable — extra motivation/injury checks required.
 - **Broader Markets**: When odds files contain 1st half O/U, BTTS halves, "most goals round", DNB, or timing props at ≥1.55, evaluate them with team-specific data (e.g., % of goals scored in 1H, opponent early concession rates). Use these to build higher-payout combos without sacrificing edge.
 
-These refinements are data-driven from ~95 detailed bet analyses (positive edges in Tennis MLs, smaller handball bets, home MLs/Overs; negative in large spreads, combos, some favorites). They will be used in all future pre-bet EV calculations and research.
+**May 2026 Performance Review Summary (Integrated)**:
+- Overall: Volatile month with strong periods (big combo wins) offset by clusters of losses on favorites and combos.
+- Best performing: Tennis MLs, smaller handball bets, selected football overs/home MLs.
+- Weakest: Short-odds Darts favorites, large handicaps across sports, combo fragility.
+- Action taken: Stricter filters on short odds, reinforced ML preference, tighter combo rules.
+
+These refinements are data-driven from the full May 2026 bet log and detailed analyses. They will be used in all future pre-bet EV calculations and research.
 
 ## Bet Logging & Bankroll
 All bets tracked in `bet-log.csv`. Bankroll starts at 500 NOK. Dynamic Half-Kelly or 10 NOK max per bet.
@@ -119,4 +133,4 @@ All bets tracked in `bet-log.csv`. Bankroll starts at 500 NOK. Dynamic Half-Kell
 - Set strict deposit and loss limits on Norsk Tipping
 - Take breaks after losing sessions
 
-**Last Updated**: 31 May 2026 (Added Market Diversification rule #14 and integrated broader market evaluation into Research Protocol, Full Deep Dive, Proactive Ideas, Edge Rules, and Football guidelines. This enables systematically higher-odds bets with strong edges by leveraging 1st half, timing, and alternative markets when supported by team patterns.)
+**Last Updated**: 31 May 2026 (Full May 2026 performance review completed and integrated. Added Rule 15, strengthened Darts/short-odds rules, combo discipline, and Edge Rules based on May data. New calibration section added.)
