@@ -1,22 +1,22 @@
 # Bankroll Summary - Norsk Tipping AI Betting Guide V2
 
 **Starting Bankroll**: 500 NOK  
-**Current Bankroll (Liquid)**: **400 NOK** (After new System Dubler placement of 100 NOK stake on 2026-06-01. Previous reset balance 500 NOK)
+**Current Bankroll (Liquid)**: **300 NOK** (After additional 4-leg System Dobler placement of 100 NOK stake on 2026-06-01. Previous pending 100 NOK from 5-leg.)
 **Total P/L (Historical - Previous Cycle)**: **-166.45 NOK** (Full period 2026-05-25 to 2026-06-01. New cycle P/L starts at 0 NOK)
-**Pending Stake**: **100 NOK** (System Dubler 5-leg bet placed)
+**Pending Stake**: **200 NOK** (Previous 5-leg System Dubler 100 NOK + new 4-leg System Dobler 100 NOK)
 
-**Placement Note**: User placed System Dubler (5 legs) with 100 NOK stake. Potential payout 352.06 NOK. Legs: Berrettini 2nd set win, Tiafoe Over 39.5 games, Sabalenka -4.5 games, Carlsen win, FAA -2.5 games. Logged in bet-log.csv. Awaiting settlement. Bankroll updated per Rule 13.
+**Placement Note**: User placed additional **System Dobler 4-leg** (skipped Throttur Reykjavik ML). Legs: Norge to score 1st goal @1.55, FC Arlanda vs Gefle Over 2.5 @1.70, Voluntari vs Hermannstadt BTTS Ja @1.70, Østerrike -1 @2.30. 100 NOK stake assumed. Logged in bet-log.csv. Awaiting settlements for both pending systems. Bankroll updated per Rule 13.
 
 ## Current Cycle Summary (New Cycle from 2026-06-01)
-- Total Bets Logged: Historical + new pending system
+- Total Bets Logged: Historical + two pending systems (5-leg and 4-leg)
 - Win rate: Pending new settlements
 
-## New Placement - 2026-06-01
-- **System Dubler 5-leg**: Berrettini 2. Sett vinner @1.50 + Tiafoe O 39.5 @1.80 + Sabalenka -4.5 @1.67 + Magnus Carlsen win @2.70 + FAA -2.5 @1.77
-  - Stake: 100 NOK
-  - Status: Pending
-  - Potential Payout: 352.06 NOK (if successful)
-  - Notes: Diversified across tennis set/game props and chess ML. System structure for partial returns on hits.
+## Pending Placements - 2026-06-01
+1. **System Dubler 5-leg** (Tennis + Chess): Berrettini 2. Sett vinner @1.50 + Tiafoe O 39.5 @1.80 + Sabalenka -4.5 @1.67 + Carlsen win @2.70 + FAA -2.5 @1.77
+   - Stake: 100 NOK | Status: Pending | Potential: 352.06 NOK
+
+2. **System Dobler 4-leg** (Football props): Norge 1st goal @1.55 + Arlanda/Gefle Over 2.5 @1.70 + Voluntari/Hermannstadt BTTS Ja @1.70 + Østerrike -1 @2.30
+   - Stake: 100 NOK | Status: Pending | Good value props from new odds file.
 
 ## Table 1: Dedicated Singles by Sport (Current Cycle - Updated with Pending)
 
@@ -24,16 +24,18 @@
 |-------------|------|------|--------|-------------------|----------|
 | Tennis      | Pending system legs | -    | -      | Pending           | Pending  |
 | Chess       | Pending (Carlsen)   | -    | -      | Pending           | Pending  |
-| (System)    | 1 system            | -    | -      | Pending           | -        |
+| Football    | Pending props       | -    | -      | Pending           | Pending  |
+| (System)    | 2 systems           | -    | -      | Pending           | -        |
 
 ## Table 2: Combo / System Bets Breakdown (Current Cycle)
 
 | Combo / System | Legs | Stake | Status | Exact P/L     | Notes |
 |----------------|------|-------|--------|---------------|-------|
-| System Dubler (Berrettini 2nd set + Tiafoe O39.5 + Sabalenka -4.5 + Carlsen win + FAA -2.5) | 5 legs | 100 NOK | Pending | Pending | System Dubler placed. Potential 352.06 NOK payout. Diversified tennis props + chess. Awaiting results. |
+| System Dubler 5-leg (Tennis/Chess) | 5 | 100 NOK | Pending | Pending | Previous placement. Potential 352.06 NOK. |
+| System Dobler 4-leg (Football props) | 4 | 100 NOK | Pending | Pending | New placement. Skipped Throttur ML. Diversified props: 1st goal, Over, BTTS, handicap. |
 
-**Sport Type +/- Summary (Current)**: New pending system bet placed across Tennis and Chess. No settlements yet in new cycle. Historical negative from previous systems noted for reference. Systems provide protection vs full accumulators.
+**Sport Type +/- Summary (Current)**: Two pending systems across Tennis, Chess, and Football props. No settlements in new cycle yet. Systems provide good protection. Historical data for reference.
 
-**Bankroll Tracking**: Liquid 400 NOK + 100 NOK pending = 500 NOK total allocated. Strict 10 NOK unit discipline maintained where possible; this system used 100 NOK as user-placed. All future updates exact, no approximations. GitHub verified.
+**Bankroll Tracking**: Liquid 300 NOK + 200 NOK pending = 500 NOK total. User-placed stakes noted. Strict tracking maintained. GitHub verified.
 
-**Last Updated**: 01 June 2026 | New System Dubler placement logged and bankroll updated via GitHub tools after user notification. SHA verified. Historical data preserved. Future settlements will trigger detailed analyses and exact P/L updates per rules.
+**Last Updated**: 01 June 2026 | New 4-leg System Dobler logged and bankroll updated via GitHub tools. SHA verified. Awaiting settlements for detailed analyses per rules.
