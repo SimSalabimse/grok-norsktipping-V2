@@ -248,3 +248,40 @@
 **Confidence**: High – important lesson on correlation risk in same-sport systems.
 
 **End of Detailed Analyses for 01/06/2026**
+
+**================================================================================**
+**NEW LESSONS FROM 02-03 JUNE 2026 SYSTEM DOBLER SETTLEMENTS (Appended 03/06/2026)**
+**================================================================================**
+
+**1. Full-Win 4-Leg System Doblers Performance**:
+- Two excellent full 4/4 wins: International Football Props (Marokko -2 + Georgia BTTS + Wales BTTS + Kroatia Under 2.5 @~9-11x) and Value Props Mix (Mensik +3.5 + Esbjerg -2.5 + Brescia BTTS + Georgia Over 1.5 @~8-10x).
+- Both delivered strong payouts (193.77 NOK and 171.56 NOK).
+- Lesson: Well-researched props in international football (BTTS, small handicaps, unders) and mixed tennis/handball/football value bets can hit at a high rate when edges align. Prioritize these market types for System Dobler construction. Diversification across 3+ sports in one system reduces correlation risk effectively.
+
+**2. 2/4 Hit Rate on Multiple Systems**:
+- Four systems hit only 2/4 legs (Football props, MLB Rays, NHL+WNBA+MLB, and the Dabrowski tennis/esports one), resulting in small payouts and net losses on those individual systems.
+- Lesson: Even with System Dobler protection, hitting only 2 out of 4 legs on 60 NOK stakes still produces a net loss. To improve long-term profitability, we need either (a) higher individual leg hit rate through stricter filters, or (b) accept that some systems will be small losers but rely on occasional full wins to carry the overall P/L (as happened here with +251 NOK net).
+
+**3. Stanley Cup Final Props Variance**:
+- The NHL + WNBA + MLB system only hit 2/4 (Carolina -0.5 and Yankees -1.5 lost).
+- Lesson: Stanley Cup Final games can be tighter and lower-scoring than expected due to high stakes and defensive play. Avoid large handicaps or high totals in Game 1 of the Final without very strong supporting data. ML or smaller spreads may be safer.
+
+**4. MLB Props High Variance Confirmed**:
+- The Rays-focused MLB system hit only 2/4 despite good research.
+- Lesson: MLB -1.5 and totals remain high-variance markets due to close games and bullpen swings. Continue using them in systems but expect inconsistency. Pair with stronger anchors from other sports.
+
+**5. Overall Cycle Performance (New Cycle Start)**:
+- Despite four partial systems, the two full wins more than compensated (+251.37 NOK net on the cycle so far).
+- Lesson: Running multiple System Doblers in parallel is effective. The structure provides protection on bad days while allowing big payouts on good days. Continue this approach. The current cycle is performing well after these settlements.
+
+**6. Bankroll & Unit Discipline**:
+- All systems were correctly staked at 60 NOK. No emotional staking increase after early wins.
+- Lesson: Strict adherence to 60 NOK unit size (even with 500 NOK starting bankroll) protected the cycle during the mixed results phase. This discipline paid off with the net positive outcome.
+
+**Recommended Adjustments**:
+- Continue prioritizing 4-leg System Doblers with mixed sports.
+- Add extra filter for Stanley Cup Final props (tighter games expected).
+- Maintain focus on BTTS, small handicaps, and game totals in football/tennis/handball for higher hit-rate potential.
+- Keep running 5-7 parallel systems when good value is available — the math works when at least 2 full wins occur per cycle.
+
+**End of New Lessons from 02-03 June 2026 Settlements**
