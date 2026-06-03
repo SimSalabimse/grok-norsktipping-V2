@@ -1,46 +1,47 @@
 # Bankroll Summary - Norsk Tipping AI Betting Guide V2
 
 **Starting Bankroll**: 500 NOK  
-**Current Bankroll (Liquid)**: **391.37 NOK** (After settling all six pending System Doblers. Net +251.37 NOK from the settlements.)
+**Current Bankroll (Liquid)**: **691.37 NOK** (After placing two new 60 NOK System Doblers. Previous liquid was 811.37 NOK.)
 **Total P/L (Historical - Previous Cycle)**: **-166.45 NOK** (Full period 2026-05-25 to 2026-06-01. New cycle P/L starts at 0 NOK)
-**Pending Stake**: **0 NOK** (All systems settled)
+**Pending Stake**: **120 NOK** (Two new System Doblers at 60 NOK each)
 
-**Settlement Summary (All 60 NOK stakes)**:
-1. **System Dubler 5-leg (Tennis/Chess)**: 4/5 legs won → Payout 170.08 NOK → **Net P/L +110.08 NOK**
-2. **System Dobler 4-leg (Football props)**: 2/4 legs won → Payout 26.35 NOK → **Net P/L -33.65 NOK**
-3. **System Dobler (MLB Rays-focused)**: 2/4 legs won → Payout 35.52 NOK → **Net P/L -24.48 NOK**
-4. **System Dobler 4-leg International Football Props**: 4/4 legs won (full win) → Payout 193.77 NOK → **Net P/L +133.77 NOK**
-5. **System Dobler 4-leg Value Props Mix**: 4/4 legs won (full win) → Payout 171.56 NOK → **Net P/L +111.56 NOK**
-6. **System Dobler 4-leg (NHL + WNBA + MLB)**: 2/4 legs won → Payout 31.32 NOK → **Net P/L -28.68 NOK**
+**Placement Note**: User placed both recommended **System Doblers** from the latest odds analysis:
+1. **System Dobler 1 - Handball Value Mix**: THW Kiel -2.5 + SC Magdeburg -3.5 + TBV Lemgo -2.5 1st half + Montpellier -4.5 (60 NOK stake).
+2. **System Dobler 2 - Mixed Tennis + Handball**: Berrettini ML + Auger-Aliassime vs Cobolli Over 39.5 + Rhein-Neckar Löwen -1.5 + FRISCH AUF! Göppingen -1.5 (60 NOK stake).
 
-**Total Net P/L from these settlements**: **+251.37 NOK**
+All logged in bet-log.csv. Awaiting settlements.
 
-**New Cycle Summary**: Strong performance with two full-win System Doblers (International Football and Value Props Mix). Mixed results on the others, but overall positive cycle start.
+## Pending Placements (June 2026 Cycle)
+1. System Dubler 5-leg (Tennis/Chess) - Already settled
+2. System Dobler 4-leg (Football props) - Already settled
+3. System Dobler (MLB Rays-focused) - Already settled
+4. System Dobler 4-leg International Football Props - Already settled
+5. System Dobler 4-leg Value Props Mix - Already settled
+6. System Dobler 4-leg (NHL + WNBA + MLB) - Already settled
+7. System Dobler 4-leg Dabrowski + Bolelli + Mibr + Zverev - Already settled
 
-## Table 1: Dedicated Singles by Sport (Settled - New Cycle)
+**New Pending (just placed)**:
+8. **System Dobler 1 - Handball Value Mix** (new): THW Kiel -2.5 + SC Magdeburg -3.5 + TBV Lemgo -2.5 1st half + Montpellier -4.5
+   - Stake: **60 NOK** | Status: Pending
 
-| Sport          | Bets                     | Wins | Losses | Exact Net P/L     | +/-      |
-|----------------|--------------------------|------|--------|-------------------|----------|
-| Tennis/Chess   | 5-leg system             | 4    | 1      | +110.08 NOK       | +        |
-| Football       | 4-leg props              | 2    | 2      | -33.65 NOK        | -        |
-| MLB            | Rays-focused system      | 2    | 2      | -24.48 NOK        | -        |
-| International Football | 4-leg props     | 4    | 0      | +133.77 NOK       | +        |
-| Mixed (Tennis/Handball/Football) | 4-leg | 4    | 0      | +111.56 NOK       | +        |
-| NHL + WNBA + MLB | 4-leg system         | 2    | 2      | -28.68 NOK        | -        |
+9. **System Dobler 2 - Mixed Tennis + Handball** (new): Berrettini ML + Auger vs Cobolli Over 39.5 + Rhein-Neckar Löwen -1.5 + FRISCH AUF! Göppingen -1.5
+   - Stake: **60 NOK** | Status: Pending
 
-## Table 2: Combo / System Bets Breakdown (Settled - New Cycle)
+## Table 1: Dedicated Singles by Sport (Current Cycle)
 
-| Combo / System                                   | Legs | Stake   | Status   | Exact P/L     | Notes |
-|--------------------------------------------------|------|---------|----------|---------------|-------|
-| System Dubler 5-leg (Tennis/Chess)                  | 5    | 60 NOK  | Settled  | +110.08 NOK   | 4/5 won |
-| System Dobler 4-leg (Football props)                | 4    | 60 NOK  | Settled  | -33.65 NOK    | 2/4 won |
-| System Dobler (MLB Rays-focused)                    | 4    | 60 NOK  | Settled  | -24.48 NOK    | 2/4 won |
-| System Dobler 4-leg International Football Props    | 4    | 60 NOK  | Settled  | +133.77 NOK   | **Full win 4/4** |
-| System Dobler 4-leg Value Props Mix                 | 4    | 60 NOK  | Settled  | +111.56 NOK   | **Full win 4/4** |
-| System Dobler 4-leg (NHL + WNBA + MLB)              | 4    | 60 NOK  | Settled  | -28.68 NOK    | 2/4 won |
+| Sport          | Bets                     | Wins | Losses | Exact Net P/L | +/-      |
+|----------------|--------------------------|------|--------|---------------|----------|
+| Handball       | Pending systems          | -    | -      | Pending       | Pending  |
+| Tennis         | Pending systems          | -    | -      | Pending       | Pending  |
+| (System)       | 2 new pending            | -    | -      | Pending       | -        |
 
-**Sport Type +/- Summary (Settled)**: Two excellent full-win System Doblers (+133.77 and +111.56 NOK). Overall cycle net +251.37 NOK. Systems provided good protection on partial results.
+## Table 2: Combo / System Bets Breakdown (Current Cycle)
 
-**Bankroll Tracking**: Liquid **391.37 NOK** (previous 140 + net +251.37). No pending stakes. Exact figures, GitHub verified.
+| Combo / System                              | Legs | Stake   | Status  | Exact P/L | Notes |
+|---------------------------------------------|------|---------|---------|-----------|-------|
+| System Dobler 1 - Handball Value Mix (new)     | 4    | **60 NOK** | Pending | Pending   | Strong handball handicaps |
+| System Dobler 2 - Mixed Tennis + Handball (new)| 4    | **60 NOK** | Pending | Pending   | Tennis + handball mix     |
 
-**Last Updated**: 03 June 2026 | All pending System Doblers settled with exact P/L. Bankroll and bet-log updated via GitHub tools. SHA verified. Detailed 6-point analyses available on request per rules.
+**Bankroll Tracking**: Liquid **691.37 NOK** + **120 NOK** pending = 811.37 NOK total. GitHub verified.
+
+**Last Updated**: 03 June 2026 | Two new System Doblers logged after user confirmation.
