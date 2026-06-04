@@ -1,6 +1,6 @@
 # Norsk Tipping AI Betting Guide V2
 
-## Grok Persistent Behavior Rules (MUST FOLLOW IN EVERY CONVERSATION - ADDED 26/05/2026, UPDATED 28/05/2026, **UPDATED 29/05/2026, UPDATED 31/05/2026**)
+## Grok Persistent Behavior Rules (MUST FOLLOW IN EVERY CONVERSATION - ADDED 26/05/2026, UPDATED 28/05/2026, **UPDATED 29/05/2026, UPDATED 31/05/2026, UPDATED 04/06/2026**)
 1. GitHub Push Reliability: Always use tools to read current files, verify SHA before/after, edit, commit and push successfully. Verify push with re-read.
 2. Always load and follow this guide + bet-log.csv + learning.md + bankroll_summary.md at the start of every response.
 3. Bankroll Tracking: Maintain accurate running bankroll (starting 500 NOK). **After every bet placement or settlement, you MUST update bankroll_summary.md** (see detailed rule below).
@@ -101,7 +101,39 @@ These lessons are now embedded in Edge Rules, Research Protocol, and Combo guide
 
 This is a direct response to May 2026 combo fragility while maintaining our goal of positive EV and higher combined odds.
 
-This is the main living document for our data-driven betting system on Norsk Tipping. It incorporates lessons from previous runs, value betting principles, bankroll management, and responsible gambling.
+**17. NEW: Final Simulation / Backtest Validation Test (ADDED 04/06/2026)**
+
+**Purpose**: To catch and reject marginal or high-risk bets that pass initial research but would likely fail in reality. This adds a final rigorous filter before any recommendation.
+
+**Mandatory Process**:
+- After completing the full Research Protocol and Edge Rules check on a selected match/line, perform a **simulation of the game** (statistical modeling, expected value scenarios, Monte Carlo-style probability estimation, or detailed scenario analysis based on historical data, form, H2H, motivation, and team-specific patterns).
+- Key elements to simulate:
+  - Projected score ranges or win probabilities
+  - Likelihood of covering the specific bet (e.g., Over/Under, Handicap, BTTS, DNB)
+  - Sensitivity to key variables (injuries, motivation swings, variance factors)
+  - Overall probability of positive outcome vs. the implied odds
+- If the simulation shows the bet is likely to fail or the edge is not supported (e.g., simulated win probability too low for the odds offered, or high chance of the exact market missing), **reject the selection immediately**.
+- Then find another match/line from the odds file (or alternative markets) and repeat the full process + simulation until a bet passes the simulation test or no suitable options remain.
+- Document in every recommendation: 
+  - Summary of simulation assumptions
+  - Key projected probabilities
+  - Final conclusion (Pass / Fail + why)
+
+**Integration with Existing Rules**:
+- This is the **final gate** before recommending any bet (singles or legs in systems/combos).
+- Combines with Rule 7 (Say "No" if needed) and Rule 5 (Full Deep Dive).
+- If multiple options fail simulation, prioritize safer alternatives or recommend no bet that day.
+- Update learning.md with patterns from failed simulations (e.g., "Simulation caught over-reliance on form without motivation check").
+
+**Benefits**:
+- Reduces the number of bets that look good on paper but fail in hindsight.
+- Improves long-term EV by filtering out hidden risks.
+- Forces more selective, higher-quality recommendations.
+
+**Example Application**:
+- Selected a strong home favorite ML. Simulation shows 58% win probability but odds imply 62% — marginal/negative EV after simulation variance. Reject and search for better value or safer DNB.
+
+This rule directly addresses the user's feedback on bets that appeared good but were later identified as bad after losses. It makes the evaluation process more robust and self-correcting.
 
 ## System Overview
 The system focuses on finding **positive expected value** bets by combining:
@@ -128,6 +160,8 @@ The system focuses on finding **positive expected value** bets by combining:
 - Motivation factors (relegation battle, title race, cup games, etc.)
 - **Team-specific scoring timing patterns** (1st half vs 2nd half goal %, early goal tendencies, BTTS in halves) when relevant markets are available.
 - Any other relevant news from reliable sources (Sofascore, Flashscore, Transfermarkt, official league sites, etc.)
+
+**Final Simulation Test (NEW - Mandatory)**: After all data gathering, simulate the game outcome and bet market as described in Rule 17. Only proceed if simulation supports the edge.
 
 **This research step is now mandatory and must be documented in every betting recommendation.**
 
@@ -173,4 +207,4 @@ All bets tracked in `bet-log.csv`. Bankroll starts at 500 NOK. Dynamic Half-Kell
 - Set strict deposit and loss limits on Norsk Tipping
 - Take breaks after losing sessions
 
-**Last Updated**: 31 May 2026 (Added comprehensive Rule 16 on System Bets / Systemspill. Updated Combo & Systems section in Edge Rules. This is a direct response to May combo fragility while keeping higher-odds multi-leg potential.)
+**Last Updated**: 04 June 2026 (Added Rule 17: Final Simulation / Backtest Validation Test as a mandatory pre-recommendation filter. This directly addresses user feedback on post-loss identification of bad bets by adding a rigorous simulation gate. Integrated into Research Protocol.)
